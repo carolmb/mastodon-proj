@@ -1,0 +1,61 @@
+account,name,link,keywords,language
+@agbtettamanzi@mastodon.online,Andrea G. B. Tettamanzi,https://mastodon.online/@agbtettamanzi,"ontology learning, uncertainty, RDF mining","en, fr, it, pt"
+@redmer@typo.social,Redmer Kronemeijer,https://typo.social/@redmer,"kg, tooling, general tech","en,nl"
+@datartisan@piaille.fr,datartisan,https://piaille.fr/@datartisan,"Knowledge Graphs, NLP, Linked Open Data","en,fr"
+@cfrainay@fediscience.org,Clément Frainay,https://fediscience.org/@cfrainay,"Knowledge Graph, Bioinformatics, Metabolic Network","en, fr"
+@christophegueret@mastodon.green,Christophe Gueret,https://mastodon.green/@christophegueret,"Linked data, graph machine learning, reasoning","en, fr"
+@gdm@mastodon.social,Gerard de Melo,https://mastodon.social/@gdm,"knowledge graphs, NLP, deep learning","en, de"
+@metilli@mastodon.social,Daniele Metilli,https://mastodon.social/@metilli,"Semantic Web, Linked Data, Wikidata","en, it"
+@argahsuknesib@mastodon.world,Kush,https://mastodon.world/@argahsuknesib,"Stream Reasoning, Linked Data Publishing, Decentralisation","en"
+@justcodeculture@mastodon.social,Jeffrey Yost,https://mastodon.social/@JustCodeCulture,"ontology engineering, social study of the Semantic Web, wikis","En, Fr"
+@laurentlefort@sigmoid.social,Laurent Lefort,https://sigmoid.social/@laurentlefort,"knowledge graph, ontology engineering, semantic statistics","en, fr"
+@osma@sigmoid.social,Osma Suominen,https://sigmoid.social/@osma,"linked open data, skos, automated subject indexing","en, fi, sv, et"
+@timathom@indieweb.social,Tim Thompson,https://indieweb.social/@timathom,"ontology engineering, linked open data, knowledge graphs","en, pt, es"
+@rtroncy@mastodon.top,Raphael Troncy,https://mastodon.top/@rtroncy,"ontology engineering, knowledge graph, nlp","en, fr"
+@jelabra@mastodon.social,Jelabra,https://mastodon.social/@jelabra,"rdf, knowledge graphs, wikidata","en, es"
+@marcorospocher@sigmoid.social,Marco Rospocher,https://sigmoid.social/@marcorospocher,"information extraction, knowledge acquisition, digital humanities","en, it"
+@lechatpito@sigmoid.social,lechatpito,https://sigmoid.social/@lechatpito,"knowledge graphs, data management, graph neural networks","fr, en"
+@veronahe@mas.to,Veronika Heimsbakk,https://mas.to/@veronahe,"SHACL, ontology engineering, OTTR","no, en"
+@EmekaOkoye@noc.social,Emeka Azuka Okoye,https://noc.social/@Emekaokoye,"Knowledge graph, ontology, linked open data",en 
+@bobdc@mas.to,Bob DuCharme,https://mas.to/@bobdc,"SPARQL, schemas","en"
+@teodora@seocommunity.social,Teodora Petkova,https://seocommunity.social/@teodora,"semantic web, digital marketing communication, web content","en, bg"
+@pietervaneverdingen@mastodon.nl,Pieter van Everdingen,https://mastodon.nl/@pietervaneverdingen,"semantic web, linked data, knowledge graphs","nl, en, de, fr"
+@openartdata@mastodon.art,Open Art Data,https://mastodon.art/@openartdata,"linked open data,wikidata,entity linking","en,fr,de"
+@julsraemy@hcommons.social,"Julien A. Raemy",https://hcommons.social/@julsraemy,"Linked Open Usable Data, JSON-LD, Data Modeling","en, de, fr"
+@epoz@blog.epoz.org,"Etienne Posthumus",https://blog.epoz.org/,"linked open data, digital art history, triplestore engineering","en, nl, af"
+@fkraeutli@hcommons.social,Florian Kräutli,https://hcommons.social/@fkraeutli,"Knowledge representation, digital humanities, cidoc-crm","en, de, nl, fr"
+@lysander07@sigmoid.social,Harald Sack,https://sigmoid.social/@lysander07,"knowledge extraction, ontology engineering, exploratory search","en,de"
+@emidiostani@fosstodon.org,Emidio Stani,https://fosstodon.org/@emidiostani,"Linked open data, open source, it architecture","en"
+@timfinin@sigmoid.social,Tim Finin,https://sigmoid.social/@TimFinin,"knowledge graph, artificial intelligence, cybersecurity","en"
+@hochstenbach@scholar.social,Patrick Hochstenbach,https://scholar.social/web/@hochstenbach,"rdf logic, event notifications, scholarly publishing","en,nl,id"
+@bergi@mastodon.social,Thomas Bergwinkl,https://mastodon.social/@bergi,"api, javascript","en, de"
+@FroehlichMarcel@sigmoid.social,Marcel Froehlich,https://sigmoid.social/@FroehlichMarcel,"data strategy, data integration, ontology engineering","de, en, nl"
+@olyerickson@fosstodon.org,John Erickson,https://fosstodon.org/web/@olyerickson,"#Rstats, #semanticweb, #webscience","en"
+@hansidm@mastodon.online,Henrique Santos,https://mastodon.online/@hansidm,"knowledge graphs, knowledge representation, ontologies","en, pt-br"
+@enridaga@mas.to,Enrico Daga,https://mas.to/@enridaga,Knowledge Graphs,"Knowledge Engineering, SPARQL Anything","en, it"
+@SvenLieber@fosstodon.org,Sven Lieber,https://fosstodon.org/@SvenLieber,"Data quality, FAIR data, digital humanities","en, de, nl"
+@brimwats@scholar.social,bri watson,https://scholar.social/web/@brimwats,"Ethics in Linked Data, LODLAM (linked open data in libraries, archives, museums), Homosaurus", en
+@grndstt@fosstodon.org,Pierre-Marie Allard,https://fosstodon.org/@grndstt,"linked open data, natural products, open science","en, fr, es"
+@Addshore@mas.to,Addshore,https://mas.to/@Addshore,"",en
+@mairhart@fosstodon.org,Michael Airhart,https://fosstodon.org/@mairhart,"web data extraction, ontology development, linked data design",en
+@danbri@mastadon.social,Dan Brickley,https://mastodon.social/@danbri,"alife, standards, schemas",en
+@pietercolpaert@mastodon.social,Pieter Colpaert,https://mastodon.social/@pietercolpaert,"public Web APIs and Linked Data","en,nl,fr"
+@dellaglio@mastodon.social,Daniele Dell'Aglio,https://mastodon.social/@dellaglio,"query processing, stream reasoning, data privacy","en,it"
+@pintoch@mamot.fr,Antonin Delpeuch,https://mamot.fr/@pintoch,"","en,fr"
+@whanley@scholar.social,Will Hanley,https://scholar.social/@whanley,"linked open data, historical data, data modelling","en,fr, ar, ota"
+@hochstenbach@scholar.social,Patrick Hochstenbach,https://scholar.social/@hochstenbach,"scholarly communication on the decentralised web","en"
+@katjahose@mastodon.social,Katja Hose,https://mastodon.social/@katjahose,"","en"
+@kabulkurniawan@mastodon.social,Kabul Kurniawan,https://mastodon.social/@kabulkurniawan,"Knowledge graph, Linked Data, Information Security",en
+@dylanvanassche@fosstodon.org,Dylan Van Assche,https://fosstodon.org/@dylanvanassche,"Knowledge Graph generation and Linked Open Data",en
+@brechtvdv@fosstodon.org,Brecht Van de Vyvere,https://fosstodon.org/web/@brechtvdv,"linked open data","en,nl"
+@rubenverborgh@mastodon.social,Ruben Verborgh,https://mastodon.social/@rubenverborgh,"decentralization, Web querying, Semantic Web","en,nl,fr"
+@vrandecic@mas.to,Denny Vrandečić,https://mas.to/@vrandecic,"","en"
+@demosthenes@mastodon.lol,Jamie McCusker,https://mastodon.lol/web/@demosthenes,"knowledge graphs, ontology engineering, computational biology",en
+@elsavalente@akademienl.social,Elsa Valente,https://akademienl.social/@elsavalente,"Linked open data, metadata, ontologies","en,dut,port"
+@caco3@scholar.social,Karel Berka,https://scholar.social/@caco3,"linked open data, wikidata, biology data","en, cz"
+@fsasaki@qoto.org,Felix Sasaki,https://qoto.org/@fsasaki,"ontology engineering, linguistic linked open data, nlp","de, en, ja"
+@diegotorresdr@mastodon.acm.org,Diego Torres,https://mastodon.acm.org/@diegotorresdr,"Linked open data, FCA, knowledge graphs","es, en, it"
+@AxelPolleres@wien.rocks,AxelPolleres (Q54860587),https://wien.rocks/@AxelPolleres,"datamanagement, knowledgegraph, linkedopendata","en,de,ee,es"
+@semantic@scholar.social,Daniel Dobriy,https://scholar.social/@semantic,"knowledgegraph,linkedopendata, ontology","en,de,uk"
+
+

@@ -1,0 +1,638 @@
+account,name,link,keywords,language
+@kaitclark@mastodon.social,Kait Clark,https://mastodon.social/@kaitclark,cognitive neuroscience;  visual cognition; individual differences; training; open science,en
+@adanvers@nerdculture.de,Alex Danvers,https://nerdculture.de/@adanvers,social psychology; personality; science reform; open science; psych methods,en
+@rdhawkins@mastodon.social,Robert Hawkins,https://mastodon.social/@rdhawkins,computational cognitive science; language,en
+@fparente@mstdn.science,Fabio Parente,https://mstdn.science/@fparente,psycholinguistics; eye-tracking; mental imagery,en
+@KBhealthmovements@activism.openworlds.info,Kiran Bains,https://activism.openworlds.info/@KBhealthmovements,health psychology,en
+@debruine@tech.lgbt,Lisa DeBruine,https://tech.lgbt/@debruine,methods; metascience; social perception,en
+@sharoz@scicomm.xyz,Steve Haroz,https://scicomm.xyz/@sharoz,vision science; cognitive neuroscience; open science; data visualization,en
+@smirandafield@academienl.social,S Miranda Field,https://akademienl.social/@smirandafield,meta science; methodology; open science; integrity; reflexivity,en
+@erinomarakunz@fediscience.org,Erin O'Mara Kunz,https://fediscience.org/@erinomarakunz,social psychology; self-processes; bias; women's health; ovulation,en
+@ttpphd@mastodon.social,Trevor T Perry,https://mastodon.social/@ttpphd,hearing; auditory neuroscience; audiology,en
+@srossit@mastodon.social,Stephanie Rossit,https://mastodon.social/@srossit,cognitive neuroscience; neuropsychology,en
+@gfrischkorn@mastodon.social,Gidon Frischkorn,https://mastodon.social/@gfrischkorn,cognitive modelling; psychometrics; rstats; working memory,en
+@LeonKroczek@mstdn.social,Leon Kroczek,https://mstdn.social/@LeonKroczek,social interaction; virtual reality; psychophysiology,en
+@jonsutton@scicomm.xyz,Jon Sutton,https://scicomm.xyz/@jonsutton,science communication,en
+@OmidVEbrahimi@mastodon.social,Omid V. Ebrahimi,https://mastodon.social/@OmidVEbrahimi,clinical psychology; mental health; depression; EMA,en
+@cruwell@nerdculture.de,Sophia Crüwell,https://nerdculture.de/@cruwell,open science; metascience; metaresearch; philosophy,en
+@sam@fediscience.org,Samuel Mehr,https://fediscience.org/@sam,psychology of music; audition,en
+@pratikb@c.im,Pratik Bhandari,https://c.im/@pratikb,predictive processing; language comprehension,en
+@dburin@mastodon.social,D. I. Burin,https://mastodon.social/@diburin,rstats; open science; Psych Science Accelerator; working memory,en
+@Alain_Content@mastodon.online,Alain Content,https://mastodon.online/@Alain_Content,cognitive science; psycholinguistics; numerical cognition; science of reading; language,en
+@KouMurayama@mastodon.social,Kou Murayama,https://mastodon.social/@KouMurayama,motivation; curiosity; rewards; metacognition; memory,en
+@TimVantilborgh@scicomm.xyz,Tim Vantilborgh,https://scicomm.xyz/@TimVantilborgh,I/O psychology; psychological contract; employee wellbeing; burnout; temporal dynamics,en
+@bianhaan@mastodon.online,Bianca de Haan,https://mastodon.online/@bianhaan,cognitive neuroscience; attention,en
+@artbox_hill@activism.openworlds.info,Hilary Murray,https://activism.openworlds.info/@artbox_hill,neuroscience,en
+@jennawneal@mastodon.social,Jennifer Watling Neal,https://mastodon.social/@jennawneal,developmental psychology; community psychology; network science; open science,en
+@Daniel_Heck@mastodon.social,Daniel Heck,https://mastodon.social/@Daniel_Heck,psychometrics; cognitive modeling; mathematical psychology,en
+@zpneal@mastodon.social,Zachary Neal,https://mastodon.social/@zpneal,rstats; openscience; network science,en
+@ekmiller@fediscience.org,Earl K Miller,https://fediscience.org/@ekmiller,cognitive neuroscience,en
+@erinnacland@fediscience.org,Erinn Acland,https://fediscience.org/@erinnacland,development; antisocial; emotion,en
+@MattCrump@bbs.crumplab.com,Matt Crump,https://bbs.crumplab.com/@MattCrump,cognition,en
+@SRHAstraea@mastodon.nz,Stephen Hill,https://mastodon.nz/@SRHAstraea,cognitive psychology; distributed cognition; embodied cognition; misinformation; open science,en
+@manlius@mathstodon.xyz,Manlio De Domenico,https://mathstodon.xyz/@manlius,network neuroscience; cognitive neuroscience,en
+@TheShrinkette@mastodon.social,Janani,https://mastodon.social/@TheShrinkette,behavioural analysis; queer science; disability justice,en
+@FrederikAust@fediscience.org,Frederik Aust,https://fediscience.org/@FrederikAust,memory; learning; cognitive modeling; Bayes; reproducibility,en
+@jnfrltackett@nerdculture.de,Jennifer Tackett,https://nerdculture.de/@jnfrltackett,clinical psychology; personality; leadership; open science; diversity science,en
+@HelenaPaterson@nerdculture.de,Helena Paterson,https://nerdculture.de/@HelenaPaterson,open science; pedagogy; social psychology,en
+@AliciaForsberg@fediscience.org,Alicia Forsberg,https://fediscience.org/@AliciaForsberg,working memory; development; cognitive ageing; meta-cognition; open science,en
+@DrMikeStanton@mstdn.social,Mike Stanton,https://mstdn.social/@DrMikeStanton,stress; health; weight; disparities; AfroLatino,en
+@hugospiers@mastodon.sdf.org,Hugo Spiers,https://mastodon.sdf.org/@hugospiers,cognitive neuroscience; spatial memory; spatial navigation,en
+@PVrticka@mastodon.social,Pascal Vrticka,https://mastodon.social/@PVrticka,fMRI; fNIRS; social; neuroscience; attachment; caregiving,en
+@AndyPerfors@aus.social,Andrew Perfors,https://aus.social/@AndyPerfors,Bayesian models; computational cogsci; information transmission; cultural/language evolution; language; reasoning,en
+@dionhenare@mastodon.nz,Dion Henare,https://mastodon.nz/@dionhenare,cognitive neuroscience; visual perception; visual attention; open science; EEG; statistical learning,en
+@JoranJongerling@mastodon.social,Joran Jongerling,https://mastodon.social/@JoranJongerling,intensive longitudinal methods; rstats; psychometrics; EMA; experience sampling; open science,en
+@dsquintana@mastodon.social,Dan Quintana,https://mastodon.social/@dsquintana,open science; psychophysiology; psychoneuroendocrinology,en
+@saraincera@mastodon.online,Sara Incera,https://mastodon.online/@saraincera,cognition; bilingualism; foreign accents; second language acquisition; language development,en
+@will_ngiam@fediscience.org,William Ngiam,https://fediscience.org/@will_ngiam,cognitive psychology; cognitive neuroscience; visual attention; visual working memory; open science,en
+@paolo_papale@scholar.social,Paolo Papale,https://scholar.social/@paolo_papale,computational neuroscience; vision; open science,en
+@DrLambchop@mastodon.nz,Maryanne Garry,https://mastodon.nz/@DrLambchop,memory; cognitive; open science,en
+@Gerald@fediscience.org,Gerald Schmidt,https://fediscience.org/@Gerald,cognitive ergonomics; human factors; psychophysiology,en
+@kwcooper@fediscience.org,Keiland Cooper,https://fediscience.org/@kwcooper,neuroscience; AI,en
+@alelazic@mastodon.social,Aleksandra Lazić,https://mastodon.social/@alelazic,social psychology; health psychology; open science,en
+@PhilippMusfeld@fediscience.org,Philipp Musfeld,https://fediscience.org/@PhilippMusfeld,working memory; long-term memory; computational models of cognition; Bayesian statistics; open science,en
+@uma_karma@fediscience.org,Uma Karmarkar,https://fediscience.org/@uma_karma,neuroeconomics; decision-making; marketing,en
+@profsimons@mas.to,Dan Simons,https://mas.to/@profsimons,attention; perception; memory; awareness; intuitions; open science,en
+@garicgymro@toot.wales,Gareth Roberts,https://toot.wales/@garicgymro,language,en
+@RyanPBowles@mastodon.social,Ryan P Bowles,https://mastodon.social/@RyanPBowles,quantitative methods,en
+@jhogeveen@mastodon.online,Jeremy Hogeveen,https://mastodon.online/@jhogeveen,cognitive neuroscience,en
+@borovsky@fediscience.org,Arielle Borovsky,https://fediscience.org/@borovsky,language; learning; cognitive development,en
+@alexconley@qoto.org,Alexander Conley,https://qoto.org/@alexconley,cognition; neuroscience; Alzheimer's disease,en
+@matti@fosstodon.org,Matti Vuorre,https://fosstodon.org/@matti,applied statistics,en
+@paolo_palma@mastodon.social,Paolo Palma,https://mastodon.social/@paolo_palma,social psychology; immigration,en
+@neuro_drqm@mastodon.social,David Quiroga,https://mastodon.social/@neuro_drqm,cognitive neuroscience; EEG; MEG; music science; imagery,en
+@igutierrez@mastodon.social,Ian Gutierrez,https://mastodon.social/@igutierrez,military; resilience; clinical psychology,en
+@MatthewBJane@mastodon.social,Matthew B. Jané,https://mastodon.social/@MatthewBJane,meta-analysis; psychometrics,en
+@c_constan@mastodon.social,Christos Constantinidis,https://mastodon.social/@c_constan,cognitive neuroscience,en
+@cillianmchugh@mastodon.ie,Cillian McHugh,https://mastodon.ie/@cillianmchugh,moral judgments; categorisation; rstats,en
+@mjb@sciences.social,Mark Brandt,https://sciences.social/@mjb,social psychology; political psychology; moral psychology,en
+@sanjaysrivastava@mas.to,Sanjay Srivastava,https://mas.to/@sanjaysrivastava,personality; reputation; culture; identity; lifespan development; open science;,en
+@charanranganath@mastodon.social,Charan Ranganath,https://mastodon.social/@charanranganath,psychology; memory; cognitive neuroscience,en
+@estebanmonte@fosstodon.org,Esteban Montenegro,https://fosstodon.org/@estebanmonte,quantitative psychology,en
+@regretlab@fediscience.org,Amy Summerville,https://fediscience.org/@regretlab,social psychology; social cognition,en
+@drrodebaugh@fediscience.org,Tom Rodebaugh,https://fediscience.org/@drrodebaugh,anxiety; tinnitus; psychotherapy; clinical psychology; idiographic; longitudinal,en
+@JschleiderPhD@mastodon.social,Jessica Schleider,https://mastodon.social@JschleiderPhD,clinical psychology,en
+@vanessabrown@fediscience.org,Vanessa Brown,https://fediscience.org/@vanessabrown,clinical psycyology; computational modeling; cognitive neuroscience,en
+@ProfASwan@mas.to,Alex Swan,https://mas.to/@ProfASwan,cognitive psychology; social psychology; human biases,en
+@johnfranchak@fediscience.org,John Franchak,https://fediscience.org/@johnfranchak,perceptual-motor development; eye tracking; mobile sensing; affordances,en
+@bjbalas@mstdn.social,Ben Balas,https://mstdn.social/@bjbalas,face recognition; vision science,en
+@mitchprinstein@mstdn.social,Mitch Prinstein,https://mstdn.social/@mitchprinstein,developmental psychopathology,en
+@PhilosophicalPsychology@fediscience.org,Philosophical Psychology,https://fediscience.org/@PhilosophicalPsychology,interdisciplinary; journal; CFP; bias; affordances,en
+@joshcorbett@mastodon.social,Josh Corbett,https://mastodon.social/@joshcorbett,cognitive neuroscience; visual attention; perception,en
+@siminevazire@mastodon.social,Simine Vazire,https://mastodon.social/@siminevazire,social psychology; personality psychology; open science; psych methods; metascience,en
+@alexh@fediscience.org,Alex Holcombe,https://fediscience.org/@alexh,open science; metaresearch; visual attention; psychophysics; metascience,en
+@awaisaftab@mastodon.social,Awais Aftab,https://mastodon.social/@awaisaftab,psychiatry,en
+@darbysaxbe@mas.to,Darby Saxbe,https://mas.to/@darbysaxbe,clinical psychology; health psychology; stress; relationships,en
+@andytonality@mastodonapp.uk,Andrew Milne,https://mastodonapp.uk/@andytonality,music theory; cognitive science,en
+@JohnGuilaran@mastodon.online,John Guilaran,https://mastodon.online/@JohnGuilaran,disaster psychology; clinical psychology,en
+@NivReggev@fediscience.org,Niv Reggev,https://fediscience.org/@NivReggev,social psychology; cognitive neuroscience; open science; stereotypes,en
+@NoraSkjerdingstad,Nora Skjerdingstad,https://mastodon.social/@NoraSkjerdingstad,clinical psychology; developmental psychopathology,en
+@Ayolee@mastodon.scot,Alaka Ayomide,https://mastodon.scot/@Ayolee,visual attention,en
+@KatyElphinstone@mas.to,Katy J. Elphinstone,https://mas.to/@KatyElphinstone,autism; neurodiversity,en
+@emily@nerdculture.de,Emily Mather,https://nerdculture.de/@emily,language development; cognitive development; word learning; category learning; novelty,en
+@mzloteanu@mastodon.social,Mircea Zloteanu,https://mastodon.social/@mzloteanu,experimental psychology; forensic psychology; open science; Bayesian; stats,en
+@dae@mastodon.online,Dae Houlihan,https://mastodon.online/@daehoulihan,cogsci; emotion; affective computing; cognition,en
+@ljuba@mstdn.social,Liuba Papeo,https://mstdn.social/@ljuba_p,cognitive neuroscience; vision; fMRI; social cognition; language; neuropsychology; infant studies,en
+@VeraK@mastodon.scot,Vera Kempe,https://mastodon.scot/@VeraK,cognitive science; language evolution; open science,en
+@tracyepton@mastodon.green,Tracy Epton,https://mastodon.green/@tracyepton,health psychology; behaviour change; systematic review,en
+@bakerdh@fediscience.org,Daniel Hart Baker,https://fediscience.org/@bakerdh,psychophysics; EEG; SSVEP; vision; binocular; dichoptic; rstats; open science,en
+@driankellar@fediscience.org,Ian Kellar,https://fediscience.org/@driankellar,intervention development; systematic review; process evaluation; behaviour change,en
+@drtifftaft@nerdculture.de,Tiffany Taft,https://nerdculture.de/@drtifftaft,health psychology; brain/gut connection; medical PTSD,en
+@aidanhorner@fediscience.org,Aidan Horner,https://fediscience.org/@aidanhorner,memory; forgetting; spatial navigation; sleep; fMRI; MEG,en
+@esdalmaijer@mastodon.online,Edwin Dalmaijer,https://mastodon.online/@esdalmaijer,child development; socio-economic status; disgust,en
+@shaneomara@mstdn.science,Shane O'Mara,https://mstdn.science/@shaneomara,learning; memory; behavioural policy; neuroplasticity,en
+@CoralieChevallier@fediscience.org,Coralie Chevallier,https://fediscience.org/@CoralieChevallier,social cognition; evolutionary human sciences; poverty psychology,en
+@martin_hebart@fediscience.org,Martin Hebart,https://fediscience.org/@martin_hebart,cognitive neuroscience; vision science; neuroimaging; cognitive science; computational neuroscience,en
+@altaypsyguy@c.im,Altay Yüce Turan,https://c.im/@altaypsyguy,neuropsychology; clinical neuropsychology; longcovid,en
+@Cwilsonpsych@mas.to,Christopher Wilson,https://mas.to/@Cwilsonpsych,rstats,en
+@saschamiller@mastodonapp.uk,Sascha Miller,https://mastodonapp.uk/@saschamiller,behaviour; behaviour change,en
+@meyerthomas@fediscience.org,Thomas Meyer,https://fediscience.org/@meyerthomas,clinical psychology; experimental psychopathology; stress; ptsd; trauma film,en
+@wdebaene@fediscience.org,Wouter De Baene,https://fediscience.org/@wdebaene,cognitive neuroscience,en
+@barbosa@mastodon.social,Joao Barbosa,https://mastodon.science/@barbosa,working memory; decision-making,en
+@joseph_bulbulia@mathstodon.xyz,Joseph Bulbulia,https://mathstodon.xyz/@joseph_bulbulia,causal inference; quantitative psychology; rstats,en
+@drbjork@scholar.social,Stefan Björk,https://scholar.social/@drbjork,group psychology; sociocultural psychology; critical psychology; gender studies; feminist psychology; philosophy of mind; phenomenology,en
+@DrSJW@mas.to,Samuel West,https://mas.to/@DrSJW,aggression; personality,en
+@merelvg@fediscience.org,Merel van Goch,https://fediscience.org/@merelvg,interdisciplinarity; learning; cognitive psychology; education,en
+@MichaelJBernstein@mastodon.social,Michael J Bernstein,https://mastodon.social/@MichaelJBernstein,social psychology; belonging; faces,en
+@oyvindhalsoy@scholar.social,Øyvind Halsøy,https://scholar.social/@oyvindhalsoy,psychopathology; clinical psychology; intensive longitudinal data; rstats; experience sampling; open science,en
+@achterbrain@mastodon.social,Jascha Achterberg,https://mastodon.social/@achterbrain,higher cognition; neuroAI; neural network; PFC; inference; reasoning; plasticity,en
+@maureenritchey@mstdn.social,Maureen Ritchey,https://mstdn.social/@maureenritchey,cognitive neuroscience; memory; episodic memory; emotional memory; fMRI,en
+@markhenick@mstdn.social,Mark Henick,https://mstdn.social/@markhenick,social neuroscience; cognitive psychology; learning; memory; mental health,en
+@A_Ferry@mas.to,Alissa Ferry,https://mas.to/@A_Ferry,language development; developmental psychology; cognitive development; cognitive neuroscience,en
+@b_m_hughes@mastodon.ie,Brian Hughes,https://mastodon.ie/@b_m_hughes,stress; health; disability; political psychology; pseudoscience,en
+@julie3dharris@mastodon.scot,Julie Harris,https://mastodon.scot/@julie3dharris,vision; perception; cognition; pattern; camouflage,en
+@kairuggeri@mas.to,Kai Ruggeri,https://mas.to/@kairuggeri,behavior; decision-making; inequalities,en
+@rei_akaishi@mstdn.social,Rei Akaishi,https://mstdn.social/@rei_akaishi,decision science; neuroscience,en
+@brianxu@qoto.org,Brian Xu,https://qoto.org/@brianxu,systems neuroscience; vision; computation; neuroAI,en
+@Jason_Power@mastodon.social,Jason Power,https://mastodon.social/@Jason_Power,motivation; self-efficacy; STEM learning,en
+@mcarondiotte@mastodon.social,Mathieu Caron-Diotte,https://mastodon.social/@mcarondiotte,identity; integration; relative deprivation; collective memory,en
+@JeffreyRStevens@fediscience.org,Jeff Stevens,https://fediscience.org/@JeffreyRStevens,decision-making; animal cognition; open science,en
+@suzyjstyles@toot.community,Suzy J Styles,https://toot.community/@suzyjstyles, developmental psychology; multilingualism; neuro; WEIRD bias; reproducibility,en
+@openscience@mastodon.social,Open Science,https://mastodon.social/@openscience,open science; publishing; open data,en
+@kellywolfe@mastodon.scot,Kelly Wolfe,https://mastodon.scot/@kellywolf,cognitive aging; risk-taking; decision-making; open science,en
+@mcxfrank@nerdculture.de,Michael Fran,https://nerdculture.de/@mcxfrank,language; learning; development; computational modeling,en
+@martinlangcz@mstdn.social,Martin Lang,https://mstdn.social/@martinlangcz,trust; cooperation; signaling; religion; anxiety,en
+@dtitone@mstdn.social,Debra Titone,https://mstdn.social/@dtitone,cognition; linguistics; multilingualism,en
+@manybabies@nerdculture.de,ManyBabies,https://nerdculture.de/@manybabies,developmental; development; cognitivedevelopment; methods; open science,en
+@MeredithSchmehl@mas.to,Meredith Schmehl,https://mas.to/@MeredithSchmehl,neuroscience; neurobiology; multisensory; visual; auditory,en
+@Karampbell@mas.to,Karen L. Campbell,https://mas.to/@Karampbell,aging; cognition; cognitive neuroscience; memory; attention,en
+@Justin_Lind@vis.social,Justin Lind,https://vis.social/@Justin_Lind,color cognition; preattentive perceptions; visualization; musical timbre; music visualization,en
+@bwyble@mastodon.social,Brad Wyble,https://mastodon.social/@bwyble,attention; working memory; EEG; computational modelling; vision,en
+@SinCityMemory@mastodon.social,Colleen Parks,https://mastodon.social/@SinCityMemory,cognition; cognitive science; memory,en
+@satrevik@mastodon.social,Bjørn Sætrevik,https://mastodon.social/@satrevik,cognitive psychology; decision-making; applied psychology; human factors,en
+@felicia@mastodon.online,Felicia Tuchman,https://mastodon.online/@felicia,addiction; statistics; harm reduction; precision medicine; non-abstinent recovery,en
+@tedpavlic@mas.to,Ted Pavlic,https://mas.to/@tedpavlic,neuroscience; neurobiology; cognition; animal cognition; comparative cognition; collective intelligence; machine ethics; AI,en
+@jverhell@qoto.org,Jonas Verhellen,https://qoto.org/@jverhell,neuroscience,en
+@samhforbes@scholar.social,Sam Forbes,https://scholar.social/@samhforbes,developmental psychology; rstats; open science,en
+@LNBeadleston@fediscience.org,LNBeadleston,https://fediscience.org/@LNBeadleston,social class; gender; critical social psychology; hobbies; leisure activities,en
+@MagicTony@mastodon.world,Anthony Barnhart,https://mastodon.world/@MagicTony,science of magic; attention; word perception,en
+@matan@c.im,Matan Mazor,https://c.im/@matan,self; metacognition; absence; modeling,en
+@veronicayan@mstdn.social,Veronica Yan,https://mstdn.social/@veronicayan,learning science; learning; memory; metacognition; motivation; self-regulated learning,en
+@SNL_Luebeck@mstdn.social,Social Neuroscience Lübeck,https://mstdn.social/@SNL_Luebeck,social neuroscience; affective neuroscience; social emotions; belief updating; metascience,en
+@annayahprosser@mstdn.social,Annayah M.B Prosser,https://mstdn.social/@annayahprosser,social change; identity; morality; climate crisis; qualitative methods,en
+@tiana@fediscience.org,Tiana Simovic,https://fediscience.org/@tiana,psycholinguistics; language processing; reference; eye-tracking,en
+@oscarkjell@mastodon.online,Oscar Kjell,https://mastodon.online/@oscarkjell,wellbeing; mental health; natural language processing; rstats; harmony,en
+@utek@fediscience.org,Utek,https://fediscience.org/@utek,personality; health; psychopathology,en
+@mahelmich@mastodon.online,Marieke A. Helmich,https://mastodon.online/@mahelmich,clinical psychology; intensive longitudinal data; experience sampling; dynamical systems; psychopathology,en
+@timothybeechey@fediscience.org,Timothy Beechey,https://fediscience.org/@timothybeechey,hearing science; speech perception,en
+@JTPeterson@mstdn.science,JTPeterson,https://mstdn.science/@JTPeterson,behavioural science; rationality; motivation; cognitive psychology; nudge; behaviour change,en
+@MiriForbes@mstdn.social,Miri Forbes,https://mstdn.social/@MiriForbes,psychopathology; stats; nosology; HiTOP; developmental; datavis,en
+@jplougheed@mastodon.social,Jess Lougheed,https://mastodon.social/@jplougheed,emotion regulation; adolescence; parenting; internalizing problems; development,en
+@BenediktEhinger@scholar.social,Benedikt Ehinger,https://scholar.social/@BenediktEhinger,vision; cognition; statistics; EEG; eyetracking,en
+@idoshal@fediscience.org,Ido Shalev,https://fediscience.org/@idoshal,empathy; clinical psychology,en
+@ajamesgreen@mastodon.social,James Green,https://mastodon.social/@ajamesgreen,health psychology; active transport; physical activity; methods,en
+@Iris@scholar.social,Iris van Rooij,https://scholar.social/@Iris,cognitive science; psychology; philosophy; computational complexity; theory,en
+@gpwilliams@fediscience.org,Glenn Williams,https://fediscience.org/@gpwilliams,language acquisition; language processing; dialect; event cognition; statistics,en
+@dggoldst@hci.social,Dan Goldstein,https://hci.social/@dggoldst,judgment and decision making,en
+@ArranReader@scholar.social,Arran Reader,https://scholar.social/@ArranReader,cognitive neuroscience; body representation; movement; social interaction; TMS,en
+@IsobelAC_SLT@toot.wales,Isobel,https://toot.wales/@IsobelAC_SLT,language; aphasia; gesture; multimodal communication,en
+@mariawimber@fediscience.org,Maria Wimber,https://fediscience.org/@mariawimber,neuroscience; memory; experimental psychology,en
+@jeremyeberle@scicomm.xyz,Jeremy Eberle,https://scicomm.xyz/@jeremyeberle,clinical psychology; quantitative methods; open science; clinical science; anxiety,en
+@flavioazevedo@mastodon.social,Flavio Azevedo,https://mastodon.social/@flavioazevedo,political psychology; social psychology; ideology; psychometric; open science,en
+@auditoryJoel@mastodon.social,Joel Snyder,https://mastodon.social/@auditoryJoel,auditory; music; consciousness; attention; event-related potentials,en
+@marcwhoward@mstdn.social,Marc Howard,https://mstdn.social/@marcwhoward,neuro-inspired AI; cognitive science; theoretical computational neuroscience,en
+@alaynapark@mas.to,Alayna Park,https://mas.to/@alaynapark,implementation science; clinical science; diversity science,en
+@alexlfrancis@fediscience.org,Alex Francis,https://fediscience.org/@alexlfrancis,hearing; effort; noise; balance; psychophysiology,en
+@siobhangriffin@mastodon.ie,Siobhán Griffin,https://mastodon.ie/@siobhangriffin,emotion regulation; cardiovascular reactivity; stress; social identity; group memberships,en
+@pleon@fediscience.org,Pablo León-Villagrá,https://fediscience.org/@pleon,cognitive development; categorization; cognition; learning; generalization,en
+@hcp4715@mastodon.online,Hu Chuan-Peng,https://mastodon.online/@hcp4715,metascience; self-cognition; drift-diffusion models,en
+@janderz8@mastodon.social,John Anderson,https://mastodon.social/@janderz8,aging; fMRI; cognition; bilingualism; cognitive reserve,en
+@CorrieWilliams@aus.social,Corrie Williams,https://aus.social/@CorrieWilliams,developmental and life-course criminology; developmental neuroscience; methods,en
+@BradKing_LMN@mastodon.online,Brad King,https://mastodon.online/@BradKing_LMN,fMRI; memory; learning; motor; sleep,en
+@AnneCleary@mstdn.social,Anne Cleary,https://mstdn.social/@AnneCleary,cognitive science; memory; metacognition; science of learning; higher education,en
+@Neurograce@mastodon.online,Grace Lindsay,https://mastodon.online/@Neurograce,computational cognitive neuroscience; attention; NeuroAI; vision,en
+@garymarcus@sigmoid.social,Gary Marcus,https://sigmoid.social/@GaryMarcus,cognitive psychology; developmental psychology; AI,en
+@arshiya@fediscience.org,Arshiya Sangchooli,https://fediscience.org/@arshiya,cognitive neuroscience; computational neuroscience; neuroimaging,en
+@juliafstrand@mastodon.online,Julia Strand,https://mastodon.online/@juliafstrand,speech perception; audiovisual integration; measurement; open science,en
+@JamieLarsH@mastodon.online,JamieLarsH,https://mastodon.online/@JamieLarsH,fMRI; cognitive neuroscience; stress; neurodevelopment,en
+@MikeyPasek@mastodon.social,Mikey Pasek,https://mastodon.social/@MikeyPasek,social psychology; intergroup relations; religion; political psychology,en
+@cmadan@scholar.social,Christopher Madan,https://scholar.social/@cmadan,memory; aging; decision-making; emotion; neuroscience,en
+@kiante@nerdculture.de,Kianté,https://nerdculture.de/@kiante, decision-making; neurocognitive modeling; decision neuroscience; response times,en
+@MNiemivirta@fediscience.org,Markku Niemivirta,https://fediscience.org/@MNiemivirta,motivation; interest; self-efficacy; perfectionism; burnout,en
+@ChristophB@fediscience.org,Christoph,https://fediscience.org/@ChristophB,eating behaviour; nutritional psychology; Bayesian statistics; open science,en
+@schultem@scicomm.xyz,Michael Schulte-Mecklenbeck,https://scicomm.xyz/@schultem,process tracing; open science; rstats,en
+@balazsaczel@scicomm.xhz,Balazs Aczel,https://scicomm.xyz/@balazsaczel,metascience; psychology of science; credibility research; research efficiency; multi-analyst,en
+@MarcCoutanche@mstdn.social,Marc Coutanche,https://mstdn.social/@MarcCoutanche,cognitive neuroscience; memory; perception; neuroimaging; fMRI,en
+@mbloechl@scicomm.xyz,Maria Blöchl,https://scicomm.xyz/@mbhloechl,health psychology,en
+@jlang@mastodon.social,Jonas Lang,https://mastodon.social/@jlang,work and organizational psychology; multilevel methods; motivation; intelligence; item-response theory,en
+@andrewathan@nerdculture.de,Anderw Athan,https://nerdculture.de/@andrewathan,psychotherapy; measurement,en
+@jeffgreene@mastodon.social,Jeff Greene,https://mastodon.social/@jeffgreene,educational psychology; self-regulation; epistemic cognition; digital literacy; learning analytics,en
+@NeuroVR@fediscience.org,Michael Wiesing,https://fediscience.org/@NeuroVR,vision; virtual reality; virtual environments; cognitive neuroscience; psychophysics; fMRI,en
+@aidangcw@mastodon.social,Aidan Wright,https://mastodon.social/@aidangcw,psychopathology; personality; quantitative methods; clinical psychology,en
+@nicolegrand@mastodon.social,Nicolas Legrand,https://mastodon.social/@nicolegrand,interoception; computational psychiatry; metacognition; memory; Bayesian modeling,en
+@agoldenberg@mastodon.social,Amit Goldenberg,https://mastodon.social/@agoldenberg,emotions; groups; collectives,en
+@cconrymurray@fediscience.org,Clare Conry-Murray,https://fediscience.org/@cconrymurray,moral development; psychology of gender; open science; research ethics,en
+@DrMeltemYucel@mastodon.social,Meltem Yucel,https://mastodon.social/@DrMeltemYucel,moral development; moral psychology; gossip,en
+@momentumyy@nerdculture.de,Yuki Yamada,https://nerdculture.de/@momentumyy,emotion; visual perception; open science; methodology,en
+@brainclinics@mstdn.science,Martijn Arns,https://mstdn.science/@brainclinics,applied neuroscience; rTMS; EEG; stratified psychiatry; depression,en
+@LPenke@fediscience.org,Lars Penke,https://fediscience.org/@LPenke,evolutionary psychology; hormones; biological personality psychology,en
+@EmmaHendersonRR@scicomm.xyz,Emma Henderson,https://scicomm.xyz/@EmmaHendersonRR,metascience; open research; replications; truth judgments; behaviour change,en
+@enganhifa@mstdn.social,Juan S. Z.,https://mstdn.social/@enganhifa,cross-cultural psychology,en
+@LewendM@mastodon.social,Lewend Mayiwar,https://mastodon.social/@LewendM,emotions and decision making; emotion regulation; risk and uncertainty; psychological distance; social cognition,en
+@Danielhochstrasser@aus.social,Daniel Hochstrasser,https://aus.social/@Danielhochstrasser,prediction; auditory processing; EEG,en
+@Drmowinckels@fosstodon.org,DrMowinckels,https://fosstodon.org/@DrMowinckels,cognitive neuroscience; lifespan changes; rstats; research software engineering,en
+@fiery@nerdculture.de,Fiery Cushman,https://nerdculture.de/@fiery,moral psychology; decision making; causal reasoning; theory of mind; reinforcement learning,en
+@austin@fediscience.org,Austin A. Baker,https://fediscience.org/@austin,social bias; discrimination; perception; philosophy of psychology,en
+@CharlieRioux@fediscience.org,Charlie Rioux,https://fediscience.org/@CharlieRioux,psychopathology; parenting; resilience; perinatality; SEM,en
+@tmb5360@mastodon.social,Tessa Benson-Greenwald,https://mastodon.social/@tmb5360,motivation; social roles; STEM; social psychology,en
+@cnsyoung@fediscience.org,Crystal Steltenpohl,https://fediscience.org/@cnsyoung, community psychology; science reform; mixed methods; program evaluation; health; equity; open science,en
+@ElineVG@fosstodon.org,Eline Van Geert,https://fosstodon.org/@ElineVG,visual perception; aesthetic appreciation; Bayesian statistics; individual differences; open science,en
+@frankgarcea@mstdn.science,Frank Garcea,https://mstdn.science/@frankgarcea,fMRI; lesion symptom mapping; motor function; DTI; ECoG,en
+@JohnZelenski@nerdculture.de,John Zelenski,https://nerdculture.de/@JohnZelenski,personality; sustainability; happiness; nature; open science,en
+@rebekahgelpi@fediscience.org,Rebekah Gelpí,https://fediscience.org/@rebekahgelpi,computational cognitive science; social learning; developmental psychology; belief revision; trust,en
+@mariawimber@fediscience.org,Maria Wimber,https://fediscience.org/@mariawimber,memory; forgetting; neuroscience; experimental psychology,en
+@lace@vis.social,Lace Padilla,https://vis.social/@lace,cognitive science; decision making; data vis,en
+@rmrahal@nerdculture.de,Rima-Maria Rahal,https://nerdculture.de/@rmrahal,cognition; decision making; process tracing; open science,en
+@britdavidson@scicomm.xyz,Brit Davidson,https://scicomm.xyz/@britdavidson,digital traces; online behavior; machine learning; ethics; open science,en
+@briemreid@fediscience.org,Brie Reid,https://fediscience.org/@briemreid,stress; developmental psychology; nutrition; cortisol; psychobiology; ELS,en
+@Dr_A@mastodonapp.uk,Alan Underwood,https://mastodonapp.uk/@Dr_A,clinical psychology; forensic psychology; mental health; stalking; CJS; risk assessment,en
+@BrilliantlyDiverse@mastodon.social,Saskia Wenniger,https://mastodon.social/@BrilliantlyDiverse,neurodiversity; ADHD; coaching; autism; strength-based,en
+@danbirman@fediscience.org,Dan Birman,https://fediscience.org/@danbirman,neuroscience; attention; virtual reality; visualization,en
+@UlrikeHahn@fediscience.org,Ulrike Hahn,https://fediscience.org/@UlrikeHahn,cognition; rationality; argumentation; social networks; computational modelling,en
+@camillaelphick@mastodon.online,Camilla Elphick,https://mastodon.online/@camillaelphick,eye witness identification; cognitive psychology; bystander intervention; digital policing; misinformation,en
+@bpitchford@mstdn.science,Brent Pitchford,https://mstdn.social/@bpitchford,visual attention; cognition; motivation; EEG; individual differences,en
+@daryloconnor@fediscience.org,Daryl O'Connor,https://fediscience.org/@daryloconnor,stress and health; health psychology; psychobiology; cancer screening; open science,en
+@K_A_Baker@mstdn.science,Kristen A Baker,https://mstdn.science/@K_A_Baker,face recognition; vision science; individual differences; cognition,en
+@Vflaudias@sciences.re,Valentin Flaudias,https://sciences.re/@Vflaudias,eating disorders; addictive behaviors; neuropsychology; clinical psychology; decision-making,en
+@alfredospagna@mas.to,Alfredo Spagna,https://mas.to/@alfredospagna,cognitive neuroscience,en
+@volcicr@mastodon.online,Robert Volcic,https://mastodon.online/@volcicr,multisensory perception; action; statistics; random noise,en
+@OndrejZika@mastodon.online,Ondrej Zika,https://mastodon.online/@OndrejZika,cognitive neuroscience; computational psychiatry; uncertainty; aversive learning; generalisation; anxiety,en
+@Marc_M_Andersen@fediscience.org,Marc Malmdorf Andersen,https://fediscience.org/@Marc_M_Andersen,cognitive science; predictive processing; play; cognitive development; recreational fear,en
+@jonsimons@mstdn.social,Jon Simons,https://mstdn.social/@jonsimons,cognitive neuroscience; memory; research culture,en
+@koszalkowska@mas.to,Karolina Koszałkowska,https://mas.to/@koszalkowska,social psychology; disparagement humor; moral psychology; prejudice; aggression; dark triad,en
+@Sacha_Altay@mastodon.social,Sacha Altay,https://mastodon.social/@Sacha_Altay,psychology of misinformation; social media; (mis)trust,en
+@Saeedeh@qoto.org,Saeedeh Sadeghi,https://qoto.org/@Saeedeh,affective neuroscience; time perception; interoception; consciousness; computational modeling,en
+@jlaferton@fediscience.org,Johannes Laferton,https://fediscience.org/@jlaferton,expectations; placebo effect; stress beliefs; stress mindset; behavioral medicine; mental health,en
+@leovarnet@qoto.org,Léo Varnet,https://qoto.org/@leovarnet,psycholinguistics; experimental phonetics; psychoacoustics; psychophysics; speech perception,en
+@the_paperback_psychologist@mastodon.scot,Stuart Cooney,https://mastodon.scot/@the_paperback_psychologist,clinical psychology; addictions; trauma; compassion focused therapy; cognitive analytic therapy; neuropsychology,en
+@edahlen@fediscience.org,Eric Dahlen,https://fediscience.org/@edahlen,counseling psychology; personality; aggression; mental health,en
+@kkopiske@scholar.social,Karl Kopiske,https://scholar.social/@kkopiske,perception and action; vision; eye movements,en
+@ManikyaAlister@aus.social,Manikya Alister,https://aus.social/@ManikyaAlister,cognition; modelling; learning; Bayesian,en
+@David_Baranger@fediscience.org,David Baranger,https://fediscience.org/@David_Baranger,substance use; fMRI; genetics; development; reward,en
+@EScetera@mastodon.online,Esther Voon,https://mastodon.online/@EScetera,language socialization; socioemotional learning; wellbeing; qualitative methods; women in academia,en
+@CorneliaWeise@scicomm.xyz,Cornelia Weise,https://scicomm.xyz/@CorneliaWeise,tinnitus; behavioural medicine; women's mental health; iCBT; endometriosis,en
+@shauniomund@aus.social,Shauni Omond,https://aus.social/@shauniomond,sleep; behaviour; evolution; flatworms; regeneration,en
+@JPinaSanchez@sciences.social,Jose Pina-Sánchez,https://sciences.social,sentencing; criminal justice; decision making; measurement; bias,en
+@antoinecoutrot@mas.to,Antoine Coutrot,https://mas.to/@antoinecoutrot,cognitive science; human behaviour; modelling; visual attention; spatial navigation,en
+@marekmcgann@mas.to,Marek McGann,https://mas.to/@marekmcgann,enaction; embodiment; open science; behavior settings; cognitive science,en
+@alexandra_pike@mastodon.online,Alex Pike,https://mastodon.online/@alexandra_pike,mental health; eating disorders; anxiety; computational modelling; computational psychiatry,en
+@paulbloom@mas.to,Paul Alexander Bloom,https://mas.to/@paulbloom,development; depression; adolescent; fMRI; EMA,en
+@toddhorowitz@fediscience.org,Todd Horowitz,https://fediscience.org/@toddhorowitz,attention; visual search' medical image perception; cancer,en
+@ryanlei@fediscience.org,Ryan Lei,https://fediscience.org/@ryanlei,social psychology; developmental psychology; intersectionality; cognitive development,en
+@ComparativeCognition@fediscience.org,Valerie Kuhlmeier,https://fediscience.org/@ComparativeCognition,animal cognition; developmental psychology; animal behaviour,en
+@BernhardSpitzer@mastodon.online,Bernhard Spitzer,https://mastodon.online/@BernhardSpitzer,working memory; decision making; learning; neuroscience; computational modeling,en
+@connairrussell@mastodon.online,Connair Russell,https://mastodon.online/@connairrussell,religion; causality; cognitive bias; cross-cultural psychology,en
+@Creativity@fediscience.org,Alwin de Rooij,https://fediscience.org/@Creativity,creativity; mental imagery; mind wandering; social robots; HCI,en
+@RegineGalanti,Regine Galanti,https://mas.to/@RegineGalanti,clinical psychology; cognitive-behavioral therapy; anxiety; OCD,en
+@zogmaister@mas.to,Cristina Zogmaister,https://mas.to/@zogmaister,cognition; social cognition; open science; sustainability,en
+@Nattonge@fediscence.org,Natasha A Tonge,https://fediscience.org/@Nattonge,clinical psychology,en
+@adwojcik@sciences.social,Adrian Wójcik,https://sciences.social/@adwojcik,social psychology; conservation psychology; collective memory; cross-cultural research,en
+@Bettyslai@mastodon.online,Betty S. Lai,https://mastodon.online/@Bettyslai,disaster; FAIR data,en
+@Schuetze@fediscience.org,Brendan Schuetze,https://fediscience.org/@Schuetze,science of learning; metacognition; rstats,en
+@FlorinaErbeli@mas.to,Florina Erbeli,https://mas.to/@FlorinaErbeli,educational psychology; reading development; dyslexia,en
+@MemphisPhilosopher@c.im,David Miguel Gray,https://c.im/@MemphisPhilosopher,philosophy of psychology; philosophy of psychiatry; schizophrenia; cognition; cognitive science,en
+@flxhlzmstr@scicomm.xyz,Felix Holzmeister,https://scicomm.xyz/@flxhlzmstr,meta-science; research methods; open science; economics; finance,en
+@kav@fediscience.org,Kav Bandara,https://fediscience.org/@kav,consciousness; cognition; cognitive neuroscience; computational neuroscience,en
+@renordquist@akademienl.social,Rebecca Nordquist,https://akademienl.social/@renordquist,animal cognition; farm animal welfare; chicken; pig; sheep; open science; public engagement,en
+@niclas_juper@mastodon.online,Niclas Kuper,https://mastodon.online/@niclas_kuper,personality; individual differences; quantitative methods,en
+@ajquinn@fediscience.org,Andrew Quinn,https://fediscience.org/@ajquinn,cognitive neuroscience; oscillations; open software,en
+@yana@mas.to,Yana Ryakhovskaya,https://mas.to/@yana,personality; well-being; positive psychology; mindfulness,en
+@marklaubach@mastodon.social,Mark Laubach,https://mastodon.social/@marklaubach,neuroscience; prefrontal; learning; decision making; open source,en
+@cmolho@mastodon.online,Catherine Molho,https://mastodon.online/@cmolho,cooperation; emotions; morality; decision making; culture,en
+@dhernaus@fediscience.org,Dennis Hernaus,https://fediscience.org/@dhernaus,cognitive neuroscience; stress; motivation and goal-directed behaviour; neuropsychopharmacology; computational cognitive modelling,en
+@marciapetyt@mstdn.social,Marcia Petyt,https://mstdn.social/@marciapetyt,neuroscience; neuroimaging,en
+@hansijzerman@sciences.social,Hans Rocha IJzerman,https://sciences.social/@hansijzerman,social thermoregulation; meta-science,en
+@gaiamolinaro@qoto.org,Gaia Molinaro,https://qoto.org/@gaiamolinaro,cognitive science; computational cognitive neuroscience; reinforcement learning; goal-directed behaviour,en
+@clinicalneuro@mstdn.social,Ingram Wright,https://mstdn.social/@clinicalneuro,paediatric neuropsychology; functional neuro imaging; epilepsy,en
+@paulabarea@mas.to,Paula Barea-Arroyo,htts://mas.to/@paulabarea,executive functions; autism; temporal discounting,en
+@drdkimhy@mastodon.socil,David Kimhy,https://mastodon.social/@drdkimhy,clinical psychology; schizophrenia; psychosis; emotion regulation; stress; neurocognition,en
+@dp_moriarity@fediscience.org,Daniel P Moriarity,https://fediscience.org/@dp_moriarity,inflammation; depression; physiometrics; cognitive vulnerabilities; phenotyping,en
+@gih@c.im,Gordon Herz,https://c.im/@gih,behavioral healthcare financing and access to care; neuropsychology; health and rehabilitation psychology,en
+@saraemilyburke@fosstodon.org,Sara Burke,https://fosstodon.org/@saraemilyburke,social psychology; intergroup bias; sexual orientation; statistics and methods,en
+@mcd@mastodon.social,Michael A. McDannald,https://mastodon.social/@mcd,associative learning; neuroscience; threat; electrophysiology; Pavlovian conditioning,en
+@bodhidave@mstdn.social,David Collins,https://mstdn.social/@bodhidave,mindfulness; cross-cultural contemplative practices; Buddhism,en
+@andrewsmith@mastodon.online,Andrew Smith,https://mastodon.online/@andrewsmith,social psychology; judgment and decision making; open science; replications,en
+@JasonCantone@mastodon.social,Jason Cantone,https://mastodon.social/@JasonCantone,social legal psychology; discrimination; bias; courts; law,en
+@daleyrb@fediscience.org,Ryan Daley,https://fediscience.org/@daleyrb,cognitive neuroscience; memory; aging; morality; emotion,en
+@sophiebarton@mastodon.social,Sophie Barton,https://mastodon.social/@sophiebarton,evolutionary neuroscience; animal behavior; neuroimaging; comparative cognition,en
+@milenamr@mas.to,Milena Rmus,https://mas.to/@milenamr,cognitive neuroscience; reinforcement learning; computational modeling,en
+@annajfinley@fediscience.org,Anna J Finley,https://fediscience.org/@annajfinley,affective neuroscience; loneliness; emotion regulation; self regulation; well-being,en
+@neuranna@mstdn.science,Anna Ivanova,https://mstdn.science/@neuranna,language and thought; cognitive neuroscience; large language models; world knowledge; meaning,en
+@MorganKikkawa@fediscience.org,Morgan Kikkawa,https://fediscience.org/@MorganKikkawa,predictive coding; visual cognition; cognitive neuroscience; machine learning,en
+@milfont@mastodon.nz,Taciano L Milfont,https://mastodon.nz/@milfont,applied psychology; social psychology; environmental psychology; individual differences; behavioural insights,en
+@wouterpoortinga@mastodon.social,Wouter Poortinga,https://mastodon.social/@wouterpoortinga,environmental psychology; behavioural science; risk perception; risk communication,en
+@DrJLCLee@mastodon.green,Jonathan Lee,https://mastodon.green/@DrJLCLee,behavioral neuroscience; memory; reconsolidation; extinction,en
+@sumedhrao@mastodonapp.uk,Sumedh Rao,https://mastodonapp.uk/@sumedhrao,intergroup relations; conflict; governance; social psychology; political psychology,en
+@jul_dugre@mastodon.online,Jules R Dugré,https://mastodon.online/@jul_dugre,antisocial behaviors; psychopathy; aggression; fMRI; developmental trajectories,en
+@Lizzy_Simpson@mastodon.online,Liz Simpson,https://mastodon.online/@Lizzy_Simpson,developmental science; social behavior; infancy; social cognition; face perception,en
+@lukaswallrich@sciences.social,Lukas Wallrich,https://sciences.social/@lukaswallrich,social psychology; organizational psychology; diversity; agent-based modeling; open science,en
+@rossmcintosh@mindly.social,Ross McIntosh,https://mindly.social/@rossmcintosh,acceptance and commitment therapy; ACT; workplace wellbeing; work psychology,en
+@peircej@fediscience.org,Jon Peirce,https://fediscience.org/@peircej,research methods/tools; visual neuroscience; open science; open source,en
+@Jessa@mas.to,Jessica Schiller,https://mas.to/@Jessa,community mental health; counselling psychology,en
+@jenperillo@mastodon.social,Jen Perillo,https://mastodon.social/@jenperillo,legal psychology; bias; decision making; social influence; open science,en
+@ChrisJKelly@mas.to,Christopher Kelly,https://mas.to/@ChrisJKelly,human factors; cognition; decision making; user interface design,en
+@wobir@mastodon.nu,Wossenseged Jemberie,https://mastodon.nu/@wobir,addiction; mental health; quantitative methods; alcohol use disorder; ageing,en
+@K_J_Burnell@mas.to,Karen Burnell,https://mas.to/@K_J_Burnell,positive psychology; applied psychology; narrative psychology; heritage and mental health; qualitative psychology,en
+@davidmccormack@mastodon.ie,David McCormack ,https://mastodon.ie/@davidmccormack,clinical psychology,en
+@xinkaidu@mastodon.social,Xinkai Du,https://mastodon.social/@xinkaidu,clinical psychology; psychometrics; networks; intensive longitudinal methods; SEM; statistical learning,en
+@Aurelio_Bruno@fediscience.org,Aurelio Bruno,https://fediscience.org/@Aurelio_Bruno,visual perception; time perception; metacognition; psychophysics,en
+@marcpabst@fediscience.org,Marc Pabst,https://fediscience.org/@marcpabst,cognitive neuroscience; visual perception; uncertainty,en
+@Hirstrj@fediscience.org,Rebecca Hirst,https://fediscience.org/@Hirstrj,multisensory; ageing; development; lifespan; crossmodal attention; open science; psychopy,en
+@echo@vis.social,Echo Rivera,https://vis.social/@echo,community psychology; public speaking; data visualization; professional development,en
+@boutsenl@mastodon.online,Luc Boutsen,https://mastodon.online/@boutsenl,cognitive neuroscience; visual attention; face and object perception; neuropsychology; EEG; eyetracking,en
+@AlessioBellato@fediscience.org,Alessio Bellato,https://fediscience.org/@AlessioBellato,autonomic arousal; meta-analysis; developmental cognitive neuroscience; child psychiatry; heart rate variability,en
+@boutsenl@mastodon.online,Luc Boutsen,https://mastodon.online/@boutsenl,cognitive neuroscience; visual cognition; neuropsychology; visual attention; faces; objects,en
+@theamygdaloid@mastodon.online,Joseph LeDoux,https://@theamygdaloid@mastodon.online,emotion; memory; consciousness; brain; evolution,en
+@stevemaren@mastodon.social,Steve Maren,https://mastodon.social/@stevemaren,behavioral neuroscience; emotional memory; associative learning; animal models; fear and anxiety,en
+@eitan@mstdn.social,Eitan Schechtman,https://mstdn.social/@eitan,cognitive neuroscience; sleep; memory; EEG,en
+@AedanLi@fediscience.org,Aedan Li,https://fediscience.org/@AedanLi,cognitive neuroscience; memory; perception; similarity; concepts,en
+@jeremyRmanning@mas.to,Jeremy Manning,https://mas.to/@jeremyRmanning,memory; computational; networks; natural language processing; data science,en
+@drbex@mastodon.nz,Rebekah Graham,https://mastodon.nz/@drbex,community psychology; food insecurity; qualitative; disability; health inequities,en
+@vic@fediscience.org,Victoria Guazzelli Williamson,https://fediscience.org/@vic,developmental cognitive neuroscience; clinical psychology; social cognition; internalizing; adolescence,en
+@TabithaLamberth@mindly.social,Tabitha Lamberth,https://mindly.social/@TabithaLamberth,social psychology; political psychology; polarization; affective partisanship,en
+@eddiehj@mas.to,Eddie Harmon-Jones,https://mas.to/@eddiehj,emotions; motivation; social psychology; affective neuroscience,en
+@jeromeprado@fediscience.org,Jérôme Prado,https://fediscience.org/@jeromeprado,cognitive neuroscience; developmental psychology; numerical cognition; reasoning,en
+@b_j_griffiths@fediscience.org,Benjamin J Griffiths,https://fediscience.org/@b_j_griffiths,cognitive neuroscience; episodic memory; EEG; MEG,en
+@J_A_Quent@fediscience.org,Jörn Alexander Quent,https://fediscience.org/@J_A_Quent,cognitive neuroscience; memory; VR; navigation; neuroimaging,en
+@tobiasstaudigl@mastodon.online,Tobias Staudigl,https://mastodon.online/@tobiasstaudigl,memory; navigation; sleep; oscillations; thalamus; eye movements; EEG; DBS; MEG,en
+@antoniahamilton@nerdculture.de,Antonia Hamilton,https://nerdculture.de/@antoniahamilton,social neuroscience; autism; fnirs; interaction; real world,en
+@vborghesani@scholar.social,Valentina Borghesani,https://scholar.social/@vborghesani,cognitive neuroscience; clinical neuroscience; language; semantics; neuroimaging; neuropsychology,en
+@NeuroLeyla@mstdn.social,Leyla Loued-Khenissi,https://mstdn.social/@NeuroLeyla,cognitive neuroscience; neuroimaging; computational modeling; decision-making; uncertainty,en
+@Belinda_B@aus.social,Belinda Brucki,https://aus.social/@Belinda_B,inequalities; moral psychology; clinical psychology; behavioural psychology; mental health,en
+@SebastianSHorn@mastodon.online,Sebastian Horn,https://mastodon.online/@SebastianSHorn,lifespan development; memory; decision making; motivation; open science; cognitive modeling,en
+@paperbag1@mastodon.social,Gary Brown,https://mastodon.social/@paperbag1,psychotherapy; psychometrics; single case designs; CBT; practice based evidence,en
+@meganchapman@mastodon.social,Megan Chapman,https://mastodon.social/@meganchapman,clinical psychology; infant mental health; hospital consultation liaison; parental reflective functioning; mentalizing,en
+@Rolandimhoff@mastodon.online,Roland Imhoff,https://mastodon.online/@Rolandimhoff,social psychology; social cognition; conspiracy theories; categorization; open science,en
+@kateslade@qoto.org,Kate Slade,https://qoto.org/@kateslade,ageing; hearing; speech perception; psychophysiology; cognitive neuroscience; listening effort; cognitive hearing science; open science,en
+@gabrock94@fosstodon.org,Giulio Gabrieli,https://fosstodon.org/@gabrock94,human-computer interaction; open science; physiology; cognitive neuroscience; social psychology,en
+@peterakirk@mastodon.online,Peter Kirk,https://mastodon.online/@peterakirk,anxiety; depression; neuroscience; fMRI; psychophysiology,en
+@helenagellersen@fediscience.org,Helena Gellersen,https://fediscience.org/@helenagellersen,cognitive neuroscience; ageing; memory; Alzheimer's disease; neuroimaging,en
+@paulgribble@fediscience.org,Paul Gribble,https://fediscience.org/@paulgribble,sensorimotor neuroscience; computational models; motor learning; motor control; human,en
+@CandiceMMills@fediscience.org,Candice Mills,https://fediscience.org/@CandiceMMills,cognitive development; developmental psychology; thinking and learning; skepticism; Santa,en
+@GordonFeld@fediscience.org,Gordon,https://fediscience.org/@GordonFeld,human neuroscience; sleep and memory; open science; reproducibility; clinical psychology,en
+@cerw@fediscience.org,Caroline Robertson,https://fediscience.org/@cerw,cognitive neuroscience; memory; perception; neurodiversity; autism; virtual reality; fMRI; MRS,en
+@h_shawberry@qoto.org,Heather Shaw,https://qoto.org/@h_shawberry,behaviour analytics; individual differences; digital traces; personality; smartphones,en
+@liu_thorsten@tech.lgbt,Tuo (Thorsten) Liu,https://tech.lgbt/@liu_thorsten,psychometrics; virtual reality; individual differences; self-representation,en
+@MCSeto@mastodon.social,Michael Seto,https://mastodon.social/@MCSeto,forensic psychology; sexuality science; clinical psychology,en
+@KaiEpstude@akademienl.social,Kai Epstude ,https://akademienl.social/@KaiEpstude,social judgments; emotion; motivation,en
+@zsuzsakaldy@fediscience.org,Zsuzsa Kaldy,https://fediscience.org/@zsuzsakaldy,cognitive development; visual working memory; attention; eye-tracking; pupillometry,en
+@blam3@noc.social,Brendan Lam,https://noc.social/@blam3,externalizing psychopathology; antisocial behaviors; quantitative methods; psychometrics,en
+@ChaffeePsych@mastodon.social,Kathryn E. Chaffee,https://mastodon.social/@ChaffeePsych,social psychology; education; motivation; gender,en
+@leesplez@fediscience.org,Jeff Lees,https://fediscience.org/@leesplez,social psych; organizational behavior; political/moral psych; social perception; judgment and biases,en
+@nadira@zirk.us,Nadira Faber,https://zirk.us/@nadira,experimental psychology; ethics; prosociality; groups; cooperation,en
+@matkau@mastodon.online,Mathias Kauff,https://mastodon.online/@matkau,social psychology; prejudice; intergroup contact,en
+@gershbrain@fediscience.org,Sam Gershman,https://fediscience.org/@gershbrain,computational neuroscience; memory; learning; decision making; reinforcement learning,en
+@DeStefani@bayes.club,Serena DeStefani,https://bayes.club/@DeStefani,Bayesian decision-making; agency; spatial cognition; social wayfinding; computational psychiatry,en
+@profgaelle@hci.social,Gaelle Vallee-Tourangeau,https://hci.social/@profgaelle,judgement and decision-making; heuristics and biases; choice architecture; applied behavioural science,en
+@JesseRissman@mas.to,Jesse Rissman,https://mas.to/@JesseRissman,cognitive neuroscience; memory; attention; neuroimaging; psychology,en
+@kbeckerblease@fediscience.org,Kathy Becker-Blease,https://fediscience.org/@kbeckerblease,developmental traumatology; science of teaching and learning; implementation science,en
+@gavin_mullin@mstdn.social,Gavin Mullin,https://mstdn.social/@gavin_mullin,social psychology; social neuroscience; intergroup relationships; social behavior; identity,en
+@MatthiasNau@fediscience.org,Matthias Nau,fediscience.org/@MatthiasNau,cognitive neuroscience; vision; memory; eye movements; deep learning,en
+@AmyJimenez@mstdn.social,Amy Jimenez,https://mstdn.social/@AmyJimenez,clinical neuroscience; psychosis; social cognition; attention,en
+@ZHANGMengya@fediscience.org ,Mengya Zhang,https://fediscience.org/@ZHANGMengya,cognitive neuroscience;  working memory; cognitive control; computational modelling,en
+@psychologician@fediscience.org,Elliot Berkman,http://fediscience.org/@psychologician,social neuroscience; health psychology; motivation; behavior change,en
+@benambridge@mastodon.social,Ben Ambridge,https://mastodon.social/@benambridge,child language; language acquisition; language development; open science; popular science writing; science communication,en
+@itsrainingjen@mastodon.scot,Jen Goff,https://mastodon.scot/@itsrainingjen,HIV; sexual health; participatory action research; person-centred approach; anti-oppressive practice,en
+@tombusey@fediscience.org,Tom Busey,https://fediscience.org/@tombusey,cognitive modeling; Bayesian stats; forensics; rstats; perception,en
+@herebehumans@fediscience.org,Valerie van Mulukom,https://fediscience.org/@herebehumans,cognitive science; imagination; belief; social bonding; evolution,en
+@paulabarea@mas.to,Paula Barea Arroyo,https://mas.to/@paulabarea,executive functions; autism,en
+@jsmnStein@mastodon.online,Jasmin Stein,https://mastodon.online/@jsmnStein,cognitive control; fMRI; stress; open science; psychology,en
+@ymorvan@mastodon.online ,Yannick Morvan,https://mastodon.online/@ymorvan,clinical psychology; student mental health; cbt; network; open science,en
+@olirobinson@mastodon.online,Oliver Robinson,https://mastodon.online/@olirobinson,computational psychiatry; cognitive neuroscience; mental health; anxiety,en
+@sdukehan@med-mastodon.com,Duke Han,https://med-mastodon.com/@sdukehan,cognitive aging; decision making; Alzheimer's Disease; neuropsychology; neuroimaging,en 
+@podarok@mstdn.social,Andrii Podanenko,https://mstdn.social/@podarok,gestalt; dialogue phenomenal psychotherapy,en
+@kiararoth@fediscience.org,Kiara Roth,https://fediscience.org/@kiararoth,social cognition; stereotypes; context effects; social psychology; political identity,en
+@szzhou4@sciences.social,Steven Zhou,https://sciences.social/@szzhou4,organizational psychology; personality; psychometrics; academic-practitioner gap; education,en
+@levels_of@mastodon.social,Melissa Kibbe,https://mastodon.social/@levels_of,cognitive development; cognitive science; mental representations; visual cognition; philosophy,en
+@linksforshrinks@mentalhealth-masto.com,Julie Cohen,https://mentalhealth-masto.com/@linksforshrinks,anxiety; depression; lgbtq; grief; panic,en
+@caseyroark@qoto.org,Casey Roark,https://qoto.org/@caseyroark,category learning; cognition; perception; cognitive neuroscience; computational modeling,en
+@clarisse@mathstodon.xyz,Clarisse Kilboy,https://mathstodon.xyz/@clarisse,counseling psychology; clinical psychology; childhood trauma; NSSI; morality and virtue,en
+@SabinaSrokova@fediscience.org,Sabina Srokova,https://fediscience.org/@SabinaSrokova,cognitive neuroscience of memory and aging,en
+@akulsatish@fediscience.org,Akul Satish,https://fediscience.org/@akulsatish,memory; cognitive neuroscience; MEG; forgetting: cognitive control,en
+@MatthewLogie@fediscience.org,Matthew Logie,https://fediscience.org/@MatthewLogie,context drift; event segmentation; memory; time; virtual environments,en
+@ZoeFlack@mastodon.lol,Zoe Flack,https://mastodon.lol/@ZoeFlack,open research; developmental psych; education; cognitive development;,en
+@janlo@mastodon.social,Jan Lorenz,https://mastodon.social/@janlo,crowd wisdon; filter bubbles; attitude change; polarization; social dynamics of the self,en
+@drerinhaugen@mstdn.social,Erin Haugen,https://mstdn.social/@drerinhaugen,athlete mental health; psychology of sport injury; psychological readiness for return to sport,en
+@rebeccalinnett@fediscience.org,Rebecca Linnett ,https://fediscience.org/@rebeccalinnett,health psychology; kidney research; self-compassion; wellbeing,en
+@SaRoseCav@mastodon.social,Sarah Rose Cavanagh,https://mastodon.social/@SaRoseCav,emotions; motivation; teaching; learning; mental health,en
+@melissaekline@mastodon.social,Melissa Kline Struhl,https://mastodon.social/@melissaekline,cognitive development; language acquisition; open science; data management; psychds,en
+@benjaminle@mastodon.social,Benjamin Le,https://mastodon.social/@benjaminle,open science; relationships; social psychology,en
+@profduff@mstdn.party,Sean Duffy ,https://mstdn.party/@ProfDuff/109327197266583244,judgment decision making; cultural psychology; environmental psychology; spatial reasoning,en
+@maramather@mstdn.social,Mara Mather,https://mstdn.social/@maramather,emotion and cognition; heart rate variability; affective neuroscience of aging; improving parasympathetic function in aging; open science,en
+@lizhn7@sciences.social,Zhaoning Li,https://sciences.social/@lizhn7,social cognition; social neuroscience; mentalising; artificial social intelligence,en
+@pgmj@scicomm.xyz,Magnus Johansson,https://scicomm.xyz/@pgmj,psychometrics; rasch; rstats; prevention; open science,en
+@MLSteinberg@fediscience.org,Marc L. Steinberg,https://fediscience.org/@MLSteinberg,tobacco use; clinical psychology; motivational interviewing; cessation; cannabis,en
+@MarkRubin@fediscience.org,Mark Rubin,https://fediscience.org/@MarkRubin,social psychology; metascience,en
+@fasbrock@home.social,Frank Asbrock,https://home.social/@fasbrock,intergroup relations; ideological attitudes; prejudice; threat; political psychology,en
+@VonDrasek@mstdn.social,Nathan Von Drasek,https://mstdn.social/@VonDrasek,Cognitive psychology; perception and action; VR/AR; ecological perception ,en
+@BEAMLab@mastodon.social,Joanna Christodoulou,https://mastodon.social/@BEAMLab,reading; dyslexia; cogneuro; education; neuroimaging,en
+@VUSocialPsych@fediscience.org,VU Social Psychology,https://fediscience.org/@VUSocialPsych,social psychology; close relationships; cooperation; emotions; morality,en
+@clwarner89@med-mastadon.com,Christina Warner,https://med-mastodon.com/@clwarner89,child & adolescent psychiatry; psychiatry; medical education; sexual health,en
+@kh_macmillan@neurodifferent.me,Kirsty Macmillan,https://neurodifferent.me/@kh_macmillan,neurodiversity; digital inclusion: online safety; lived experiences; participatory action research ,en
+@CANexeter@mastodon.social,Anna Adlam & Jenny Limond,https://mstdn.social/@CANexeter,clinical neuropsychology; clinical psychology; child acquired brain injury; mental health; interventions,en
+@jverissimo@fediscience.org,João Veríssimo,https://fediscience.org/@jverissimo,psycholinguistics; bilingualism; aging; statistics; individual differences,en
+@drlucythompson@sciences.social,Lucy Thompson,https://sciences.social/@DrLucyThompson,feminist psychology; critical psychology; power; organizations and institutions; institutional trauma; qualitative methods,en
+@dbkrupp@ecoevo.social,DB Krupp,https://ecoevo.social/@dbkrupp,social evolution; kinship; competition; inequality,en
+@SocialDevelopment@fediscience.org,Social Development (journal),https://fediscience.org/@SocialDevelopment,social development; peer relations; social cognition; emotions; theory of mind; methods; developmental psychology,en
+@SBMost@mstdn.social,Steve Most,https://mstdn.social/@SBMost,attention; perception; emotion; cognition; individual differences,en
+@leslie@mastodon.social,Leslie Poston,https://mastodon.social/@leslie,psychology; media psychology; change management; technology; open science,en
+@istudytrust@sciences.social,Joe Hamm,HTTPS://sciences.social/@istudytrust,trust; trustworthiness signaling; governance relationships,en
+@Hannah_R_Snyder@fediscience.org,Hannah R. Snyder,https://fediscience.org/@Hannah_R_Snyder,executive function; psychopathology; stress; internalizing; open science,en
+@juli_nagel@fosstodon.org,Juli Nagel,https://fosstodon.org/@juli_nagel,memory; reward; sleep,en
+@danielnettle@fediscience.org,Daniel Nettle,https://fediscience.org/@danielnettle,evolutionary psychology; social cognition; socioeconomic inequality; open science,en
+@StefaanVanDamme@fediscience.org,Stefaan Van Damme,https://fediscience.org/@StefaanVanDamme,health psychology; pain; fatigue; motivation; attention,en
+@jonmay@toot.wales,Jon May,https://toot.wales/@jonmay,mental imagery; motivation; behaviour change; open science; psychometrics,en
+@xenia_ks@dizl.de,Xenia Schmalz,https://dizl.de/@xenia_ks,psycholinguistics; reading; dyslexia; reproducibility; open science,en
+@drcpennington@mastodon.social,Charlotte Pennington,https://mastodon.social/@drcpennington,addiction science; open science; social cognition; health; wellbeing,en
+@VinseaSingh@mastodon.world,Vinsea Singh,https://mastodon.world/@VinseaSingh,cognitive neuroscience; speech perception; EEG-fMRI; computational neuroscience,en
+@eecastro@mastodon.social,Eric E Castro,https://mastodon.social/@eecastro,cognitive psychology; secondary education,en
+@Arminius@mindly.social,Jeffrey Hermann,https://mindly.social/@Arminius,women's health,en
+@nattonge@fediscience.org ,Natasha A Tonge,Http://fediscience.org/@nattonge,clinical psychology; trust; self-disclosure; open science; BIPOC ,en
+@JacksonSmith@fediscience.org,Jackson Smith,https://fediscience.org/@JacksonSmith,clinical psychology; community psychology; developmental trauma; family systems; resilience,en
+@coreyfernandez@mastodon.social,Corey Fernandez,https://mastodon.social/@coreyfernandez,cognitive neuroscience; learning and memory; teaching,en
+@church_lang@mastodon.online,Jessica Church Lang,https://mastodon.online/@church_lang,developmental cognitive neuroscience; fMRI; reading; ADHD; control; adolescence,en
+@CSLee@mastodon.social,Carol Lee,https://mastodon.social/@CSLee,clinical; anxiety; stress,en
+@ljuba_p@mstdn.social,Liuba Papeo,https://mstdn.social/@ljuba_p,cognitive neuroscience; vision; social cognition; spatial cognition; words; language;,en
+@sprinti@mastodon.online,Niklas Stein,https://mastodon.online/@sprinti,psychophysics; virtual reality; eye tracking; visual search; locomotion; visual perception; attention,en
+@ipanalysis@toot.community,Michael Larkin,https://toot.community/@ipanalysis,phenomenology; qualitative methods; codesign; coproduction; youth mental health ,en
+@annapowell@mastodon.social,Anna Powell,https://mastodon.social/@annapowell,alcohol dependence; alcohol; recovery; cognition; executive function; reaction time; vibrotactile perception,en
+@mayabraun@nerdculture.de,Maya Braun,https://nerdculture.de/@mayabraun,health psychology; behavior change; health promotion; physical activity; ontology,en
+@doyle@home.social,Richard Doyle ,https://home.social/@doyle,psychotherapy and counselling; measurement; human development and change; person centred approach,en
+@GJHollands@fediscience.org,Gareth Hollands,https://fediscience.org/@GJHollands,behavioural science; behavioral science; health psychology; systematic reviews; public health,en
+@schotz@mstdn.social,Chris Schatschneider,https://mstdn.social/@schotz,reading development; methods and quantitative statistics; open science,en
+@rafavsbastos@mastodon.lol,Rafael Bastos,https://mastodon.lol/@rafavsbastos,psychology; psychometrics; test development,en
+@cypris@nerdculture.de,Niklas Cypris,https://nerdculture.de/@cypris,social psychology; media psychology; bystander interventions; hate speech; open science,en
+@ilsepit@fediscience.org ,Ilse Pit,https://fediscience.org/@ilsepit,social norms; ingroup bias; open science; cooperation,en
+@larissawieczorek@mstdn.party,Larissa Wieczorek,https://mstdn.party/@larissawieczorek,personality; adolescence; social relationships; sexuality research; open science,en
+@dorsaamir@nerdculture.de,Dorsa Amir,https://nerdculture.de/@DorsaAmir,Developmental psychology; cross cultural psychology; anthropology,en
+@aelight@mastodon.social,Alysson Light,https://mastodon.social/@aelight,social psychlogy; self-concept; goal disengagement; gender,en
+@emma_cogdev@fediscience.org,Emma K Ward,https://fediscience.org/@emma_cogdev,expectations and perception; predictive processing; autism; cognitive development,en
+@Ilsevandegroep@akademienl.social,Ilse van de Groep,https://akademienl.social/@Ilsevandegroep,cognitive neuroscience; antisocial behavior; fMRI; development; mental health,en
+@DrSamanthaFede@mastodon.world,Samantha Fede,https://mastodon.world/@DrSamanthaFede,cognitive neuroscience; substance use disorders; moral cognition; psychopathy; fMRI,en
+@drstephcraig@c.im,Stephanie Craig,https://c.im/@DrStephCraig,clinical developmental; adolescence; psychopathology; CU traits; parenting,en
+@condalmo@mstdn.social,Matthew Tiffany,https://mstdn.social/@condalmo,psychotherapy,en
+@TSpampatti@mstdn.science,Tobia Spampatti,https://mstdn.science/@TSpampatti,social neuroscience; climate disinformation; environmental psychology; information processing,en
+@cconelea@fediscience.org,Christine Conelea,https://fediscience.org/@cconelea,neurodevelopmental disorders; Tourette; OCD; anxiety; neuromodulation; CBT,en
+@kirstenmorley@aus.social,Kirsten Morley,https://aus.social/@kirstenmorley,neuropsychopharmacology; cognitive neuroscience,en
+@klaiberpat@fediscience.org,Partrick Klaiber,https://fediscience.org/@klaiberpat,aging; health; positive events; stress; daily life,en
+@DrAlexandraZidenberg@fediscience.org,Alexandra Zidenberg,https://fediscience.org/@DrAlexandraZidenberg,forensic psychology; sexual offences; zoophilia; forensic mental health ,en
+@White_Lab_Brown@fediscience.org,Tara White,https://fediscience.org/@White_Lab_Brown,emotion; personality; affective science; neuroscience; dignity neuroscience,en
+@vsoldino@mastodon.world,Virginia Soldino,https://mastodon.world/@vsoldino,criminal psychology; forensic psychology; risk assessment ,en
+@RosannaOlsen@fediscience.org,Rosanna Olsen,https://fediscience.org/@RosannaOlsen,cognitive neuroscience; memory; hippocampus; aging; dementia,en
+@sTeamTraen@mastodon.social,Nick Brown,https://mastodon.social/@sTeamTraen,open science; meta-science; methods; statistics,en
+@luciamawe@fediscience.org,LucÃ­a Magis-Weinberg,https://fediscience.org/@luciamw,developmental psychology; adolescence; social media; mental health; Latin America,en
+@timbrady@fediscience.org,Tim Brady,https://fediscience.org/@timbrady,Visual cognition; memory; cognitive neuroscience; cognitive science;,en
+@anniepettit@mas.to,Annie Pettit,https://mas.to/@anniepettit,#neuromarketing #cognitivescience #statistics #surveys #researchmethods,en
+@karihoffman@ohai.social,Kari Hoffman,https://ohai.social/@karihoffman,Cognitive neurophysiology; computational neuroscience; memory; oscillations; microcircuit function,en
+@yamamoto@fediscience.org,Naohide Yamamoto,https://fediscience.org/@yamamoto,spatial cognition; navigation,en
+@JudyDZhu@fediscience.org,Judy Zhu,https://fediscience.org/@JudyDZhu,cognitive neuroscience; bilingualism; MEG; EEG,en
+@zulaliscanoglu@mastodon.sdf.org,Zülal İşcanoğlu,https://mastodon.sdf.org/@zulaliscanoglu,early adverse experiences; paternal incarceration and child development; emotional and behavioral problem in early years,en
+@yannbd@fediscience.org,Yann Benetreau ,https://fediscience.org/@yannbd,philosophy; open science; open access publishing ,en
+@nikitaghodke@fediscience.org,Nikita Ghodke,https://fediscience.org/@nikitaghodke,developmental psychology; cognitive neuroscience; infant studies; socioeconomic inequality; neuroimaging,en
+@AleaRuf@fedisciene.org,Alea Ruf ,https://fediscience.org/@AleaRuf,health psychology; eating behaviour; ecological momentary assessment; stress; physical activity,en
+@maddyarden@fediscience.org,Maddy Arden,https://fediscience.org/@MaddyArden,health psychology; Behavioural science: behaviour change; habit,en
+@jennyterry@mstdn.social,Jenny Terry,https://mstdn.social/@jennyterry,statistics education; statistics anxiety; R pedagogy; measurement,en
+@helenahartmann@fediscience.org,Helena Hartmann,https://fediscience.org/@helenahartmann,psychology; social neuroscience; open science; pain; fMRI,en
+@maddi_pow@mastodon.online,Madeleine Pownall,https://mastodon.online/@maddi_pow,open science; feminist psychology; pedagogy; psychology,en
+@danieljamesyon@qoto.org,Daniel Yon,https://qoto.org/@danieljamesyon,prediction; learning; perception; metacognition; action; theory,en
+@richarddmorey@tech.lgbt,Richard D. Morey,https://tech.lgbt/@richarddmorey,cognitive modelling; statistics; Bayesian hierarchical models; data science,en
+@Johannesfuss@ruhr.social,Johannes Fuss,https://ruhr.social/@Johannesfuss,sex research; forensic psychiatry; new technologies,en
+@sethpollak@nerdculture.de,Seth Pollak ,https://nerdculture.de/@sethpollak,emotion; child development; affective science; learning; development ,en
+@nathanww@mstdn.science,Nathan Whitmore,https://mstdn.science/@nathanww,cognitive enhancement; memory; sleep; hci; cognitive neuroscience,en
+@DaniellaWatson@mastodon.social,Daniella Watson,http://mastodon.social/@DaniellaWatson,health psychology; behavioural science; behaviour change,en
+@chris_petsko@mstdn.party,Chris Petsko,https://mstdn.party/@chris_petsko,social psychology; person perception; intersectional stereotyping; prejudice,en
+@gulgunaydin@mastodon.online,Gul Gunaydin,https://mastodon.online/@gulgunaydin,social psychology; interpersonal relationships; romantic relationships; minimal social interactions; well-being,en
+@emreselcuk@mstdn.social,Emre Selcuk,https://mastodon.online/@emreselcuk@mstdn.social,social psychology; interpersonal relationships,en
+@Wern@kopiti.am,Werner Sævland,https://kopiti.am/@wern,clinical psychology; cross-cultural psychology; motivation; learning,en
+@baruche@nerdculture.de,Baruch Eitam,https://nerdculture.de/@baruche,reward processes; consciousness; selective attention; motivation-cognition interactions,en
+@lnnrtwttkhn@fediscience.org,Lennart Wittkuhn,https://fediscience.org/@lnnrtwttkhn,cognitive neuroscience; replay; task representations; fMRI; open science,en
+@sandygautam@sciences.social,Sandeep Gautam,https://sciences.social/@sandygautam,emotions; motivation; personality; positive psychology; psychosis,en
+@karenfingerman@mastodon.social,Karen Fingerman,https://mastodon.social/@karenfingerman,adult development and aging; social psychology; developmental psychology; applied psychology,en
+@jacyanthis@sciences.social,Jacy Reese Anthis,https://sciences.social/@jacyanthis,social psychology; human-computer interaction; computational social science,en
+@DrMeltemYucel@mastodon.social,Meltem Yucel,https://mastodon.social/@DrMeltemYucel,moral development; moral psychology; gossip,en
+@LisaLopez@sciences.social,Lisa Lopez,https://sciences.social/@LisaLopez,educational psychology; DLLs; bilingualism; school readiness; Head Start,en
+@niketagrawal@fosstodon.org,Niket Agrawal,https://fosstodon.org/@niketagrawal,emotions; mental health; perception; interoception; social psychology; language,en
+@RambleCamble@fediscience.org,Ian Chandler-Campbell,https://fediscience.org/@RambleCamble,social cognition; developmental psychology; epistemic cognition; cognitive development,en
+@rebeccatickell@qoto.org,Rebecca Tickell,https://qoto.org/@rebeccatickell,teacher mentoring; self-efficacy beliefs; scale construction; IPA; psychology in education,en
+@darylcameron@mastodon.world,Daryl Cameron,https://mastodon.world/@darylcameron,social psychology; empathy and prosocial behavior; moral judgment and moral emotions,en
+@paraicosuilleabhain@mastodon.ie,Páraic S. Ó Súilleabháin,https://mastodon.ie/@paraicosuilleabhain,personality; loneliness; adversity; mortality risk; open science ,en
+@riyer@techhub.social,Ravi Iyer,https://techhub.social/@riyer,moral psychology; technology; algorithms; polarization; social psychology,en
+@johannesfuss@mastodon.social,Johannes Fuss,https://mastodon.social/@johannesfuss,sex research; forensic psychiatry; virtual reality; human behavior; sexuality,en
+@adriennewood@mastodon.art,Adrienne Wood,https://mastodon.art/@adriennewood,social psychology; emotion; nonverbal behavior; social networks,en
+@ericamcintyre@aus.social,Erica McIntyre,https://aus.social/@ericamcintyre,environmental psychology; health psychology; social psychology; decision making; public health,en
+@mtibber@masto.ai,Marc Tibber,https://masto.ai/@mtibber,clinical psychology; mental health; child and adolescent; emerging adults; cyberpsychology; social media,en
+@jacquie@mstdn.ca,Jacquie Cohen,https://mstdn.ca/@jacquie,clinical psychology; training; DBT; CBT; minority stress and resilience,en
+@ivntmc@fediscience.org,Ivan Tomic,https://fediscience.org/@ivntmc,visual cognition; working memory; computational cognition; computational neuroscience; cognitive neuroscience,en
+@lucycheke@fediscience,Lucy Cheke,https://fediscience.org/@LucyCheke,learning; memory; obesity; long covid; ai; animal ai ,en
+@davidrfeinberg@mastadon.social,David Feinberg,https://mastodon.social/@davidrfeinberg,voice perception,en
+@fbpsy@paquita.masto.host,Fernando Blanco,https://paquita.masto.host/@fbpsy,causal learning; cognitive biases; associative learning; contingency learning; irrationality,en
+@ayannakim@mastodon.social,Ayanna Kim Thomas,https://mastodon.social/@ayannakim,memory; metacognition; retrieval,en
+@katejjeffery@fediscience.org,Kate Jeffery,https://fediscience.org/@katejjeffery,spatial cognition; rodent chronic electrophysiology; cognitive mapping; architecture,en
+@ajohnstone@mas.to,Ashleigh Johnstone,https://mas.to/@ajohnstone,cognition; physical activity; attention; pedagogy; science communication,en
+@Joanafqg@scicomm.xyz,Joana Grave,https://scicomm.xyz/@Joanafqg,Cognition; visual perception; social cognition; schizophrenia; olfaction,en
+@Qrolfazwaan@mastodon.nl,Rolf Zwaan,https://mastodon.nl/@rolfazwaan,digital media; cognition; language,en
+@saraskin@med-mastodon.com,Sarah Raskin ,https://med-mastodon.com/@saraskin,Neuropsychology; rehabilitation psychology; prospective memory; cognitive rehabilitation,en
+@daviddunning6@mastodon.social,David Dunning,https://mastodon.social/@daviddunning6,judgment & decision making; self; social cognition; motivated reasoning; psych & law,en
+@JJCutuli@mstdn.party,J. J. Cutuli,https://mstdn.party/@JJCutuli,risk and resilience; development; developmental psychopathology; service systems,en
+@hwamee_oh@mastodon.online,Hwamee Oh,https://mastodon.online/@hwamee_oh,Cognitive neuroscience; visual memory; brain aging; Alzheimer's disease; fMRI and PET,en
+@RichardThwaites@mastodon.social,Richard Thwaites,HTTPS://mastodon.social/@richardthwaites,CBT; clinical psychology; anxiety disorders; supervision ,en
+@nunnski@nerdculture.de,Stephen Nunn,https://nerdculture.de/@nunnski,open science; network models,en
+@ouriagan@mastodon.zaclys.com,Benjamin Thiry,https://mastodon.zaclys.com/@ouriagan,personality; justice; prison; rstats; tests,en
+@stevenweisberg@mastodon.social,Steven Weisberg,https://mastodon.social/@stevenweisberg,cognitive neuroscience; spatial navigation; open science; fMRI; individual differences,en
+@chris_i_baker@fedisscience.org,Chris Baker,https://fediscience.org/@chris_i_baker,cognitive neuroscience; vision; learning; memory; plasticity,en
+@thordura@mastodon.nu,Thordur Örn Arnarson,https://mastodon.nu/@thordura,OCD; BDD; hoarding; supervision; CBT,en
+@imaginalia@mastodonsocial.ca,Faith Harkey,https://mastodonsocial.ca/@imaginalia,depth psychology; imaginal studies; complex/subpersonality; Jungian,en
+@NSCorralFrias@qoto.org,Nadia Sarai Corral-Frias,https://qoto.org/@NSCorralFrias,psychopathology; stress; psychiatric genetics; big-team science; open science; diversity; psychophysiology,en
+@psforscher@nerdculture.de,Patrick S. Forscher,https://nerdculture.de/@psforscher,open science; big team science; behavioral science; global development,en
+@richardcoates@mastodon.social,Richard Coates,http://mastodon.social@richardcoates,ACT; neuropsychology; families,en
+@sandervanbree@fediscience.org,Sander van Bree,https://fediscience.org/@sandervanbree,cognitive neuroscience; metascience; philosophy; cognitive science; oscillations,en
+@fcastep@mastodol.lol,Franco CP,https://mastodon.lol/@fcastep,Functional analysis behavior; behaviorism; contextual therapies,en
+@valentinakrenz@fediscience.org,Valentina Krenz,https://fediscience.org/@valentinakrenz,cognitive neuroscience; episodic memory; long-term memory; fmri; emotional memory,en
+@Johnpgrogan@mastodon.online,John P Grogan,https://mastodon.world/@JohnPGrogan,cognitive neuroscience; decision making; confidence; working memory; EEG;,en
+@dalejbarr@fediscience.org,Dale Barr,https://fediscience.org/@dalejbarr,psycholinguistics; social interaction; cognitive science; statistics; research design,en
+@JonCorbin@nerdculture.de,Jonathan Corbin ,https://nerdculture.de/@JonCorbin,applied behavioral science; decision making; memory ,en
+@meganakpeters@mastodon.social,Megan Peters,https://mastodon.social/@meganakpeters,perceptual decision making; metacognition; neuroimaging; computational cognitive neuroscience; modeling; consciousness,en
+@DirkBWalther@fediscience.org,Dirk Bernhardt-Walther,https://fediscience.org/@DirkBWalther,visual cognition; scene perception; cognitive neuroscience; perceptual organization; visual aesthetics,en
+@sinandrei@fosstodon.org,Tamas Foldes,https://fosstodon.org/@sinandrei,cognitive neuroscience; memory; replay; computational modelling; open science,en
+@hussainilab@qoto.org,Abid Hussaini,https://qoto.org/@hussainilab,cognitive neuroscience; systems neuroscience; neurodegeneration; in vivo electrophysiology; Alzheimer's disease; ,en
+@AnthonyOng@mastodon.world,Anthony Ong,https://mastodon.world/@AnthonyOng,stress; emotions; aging; social relationships; well-being,en
+@jonathanstea@mastodon.sdf.org,Jonathan N. Stea,https://mastodon.sdf.org/@jonathanstea,pseudoscience; mental health misinformation ,en
+@sgulgoz@mastodon.online,Sami Gulgoz,https://mastodon.online/@sgulgoz,Cognition; memory; autobiographical memory; memory functions,en
+@jennifermaggs@mastodon.social,Jennifer Maggs,https://mastodon.social/@jennifermaggs,human development; health; substance use; transition to adulthood; epidemiology,en
+@DeannaJGreene@fediscience.org,Deanna Greene,https://fediscience.org/@DeannaJGreene,cognitive neuroscience; development; brain networks; fMRI; Tourette syndrome,en
+@JamieMurray@scicomm.xyz,Jamie Murray,https://scicomm.xyz/@JamieMurray,cognitive neuroscience; open science; teaching; memory,en
+@igordbandeira@med-mastodon.com,Igor D. Bandeira,https://med-mastodon.com/@igordbandeira,mood disorders; suicidal behavior; implicit suicidal cognition; ketamine; brain stimulation,en
+@Andreaskalckert@mstdn.science,Andreas Kalckert ,https://mstdn.science/@andreaskalckert,cognitive neuroscience; embodiment; multisensory integration; motor control; body ownership; agency ,en
+@nikigervais@urbanists.social,Nicole Gervais,https://urbanists.social/@Nikigervais,memory; sleep; female physiology; translational neuroscience; MRI,en
+@WriterAlexJonrs@mstdn,Alex Jones,https://mstdn@WriterAlexJones,retired; clinician; catastrophizing; PTSD; EMDR,en
+@MichaelFreedberg@mastodon.world,Mike Freedberg,https://mastodon.world@michaelfreedberg,Memory;cognitive neuroscience; rTMS; fMRI; network neuroscience,en
+@richardfalcon@mastodon.social,Richard Falcon,https://mastodon.social/@richardfalcon,clinical psychology; cognitive analytic therapy; psychosis; trauma; social equality,en
+@sinclair_allie@fediscience.org,Allie (Alyssa) Sinclair,https://fediscience.org/@sinclair_allie,cognitive neuroscience; learning and memory; memory/belief updating; interventions; prediction error,en
+@emilynordmann@tech.lgbt,Emily Nordmann,https://mastodon.tech.lgbt/@emilynordmann,Lecture capture; higher education; open science,en
+@mkachlicka@sigmoid.social,Magdalena Kachlicka,https://sigmoid.social/@mkachlicka,auditory cognitive neuroscience; second language learning; sound perception; speech perception and production,en
+@KlonskyLab@sciences.social,E. David Klonsky,https://sciences.social/@KlonskyLab,suicide; clinical psychology; open science; emotion; personality,en
+@AV_SP@fediscience.org,Chris Davis,https://fediscience.org/@AV_SP,multimodal speech; communication; gestures; attention; emotion,en
+@jameswardantony@mastodon.social,James Antony,https://mastodon.social/@jameswardantony,cognitive neuroscience; memory; sleep; computational modeling; surprise,en
+@thenewstats@nerdculture.de,Bob Calin-Jageman and Geoff Cumming,https://nerdculture.de/@thenewstats,statistics; behavioral neuroscience; learning; forgetting,en
+@almogsi@fediscience.org,Almog Simchon,https://fediscience.org/@almogsi,computational social science; social psychology; social media; natural language processing; political psychology,en
+@mariam@mstdn.social,Mariam Aly,https://mstdn.social/@mariam,cognitive neuroscience; memory; perception; attention; prediction,en
+@vijaymarupudi@functional.cafe,Vijay Marupudi,https://functional.cafe/@vijaymarupudi,learning; problem solving; computer science education ,en
+@nataliepeluso@fediscience.org,Natalie Peluso,https://fediscience.org/@nataliepeluso,emotion; affective neuroscience; psychophysiology; interoception; consciousness,en
+@EmmaMcPsych@ohai.social,Emma McDonald,https://ohai.social/@EmmaMcPsych,teaching; learning; statistics; memory; dyslexia ,en
+@Brain_apps@mastodon.social,Matthew Apps,https://mastodon.social/@Brain_apps#,Decision-making; cognitive neuroscience; motivation; social cognition; computation,en
+@AlexanderHolmes@fediscience.org,Alexander Holmes,https://fediscience.org/@AlexanderHolmes,neuroimaging; neurodevelopment; schizophrenia; open science; machine learning,en
+@xianhuihe@mstdn.social,Xianhui He,https://mstdn.social/@xianhuihe,cognitive neuroscience; neural oscillations; working memory,en
+@Psychologics@mastodon.social,Psychologics,https://mastodon.social/@Psychologics,gender psychology; social cognition; mental health; gender based violence; clinical psychology,en
+@dremmaclaire@mastodonapp.uk,Emma Palmer-Cooper,https://mastodonapp.uk/@dremmaclaire,cognitive neuropsychology; metacognition; psychosis; mental health; creativity,en
+@JimBright@mastodonapp.uk,Jim Bright,HTTPS://mastodonapp.uk/@JimBright,organisational psychology; vocational psychology; careers; chaos and complexity theory; chaos theory of careers,en
+@michelavezzoli@ohai.social,Michela Vezzoli,https://ohai.social/@michelavezzoli,social psychology; economic inequality; psychological methods; open science,en
+@savi@fediscience.org,Alexander Savi,https://fediscience.org/@savi,complex developmental systems; human intelligence; adaptive learning; psychological methods; open science,en
+@kevinmcintyre@mstdn.party,Kevin McIntyre,https://mstdn.party/@kevinmcintyre,social psychology; romantic relationships; self and identity; open science,en
+@DrBenkwitz@mastodon.world,Adam Benkwitz,https://mastodon.world/@DrBenkwitz,mental health; physical activity; recovery; qualitative research,en
+@fbublatzky@mas.to,Florian Bublatzky,https://mas.to/@fbublatzky,affective neuroscience; social learning; face and person perception; emotion and attention; psychopathology,en
+@DirkGutlin@masto.ai,Dirk Gütlin,https://masto.ai/@DirkGutlin,cognitive neuroscience; biopsychology; computational neuroscience; visual cognition,en
+@matzekloft@mastodon.social,Matthias Kloft,https://mastodon.social/@matzekloft,psychological methods; psychometrics; latent variable modeling; bayesian statistics,en
+@Lou_Kulke@mastodon.world,Louisa Kulke ,https://mastodon.world/@Lou_Kulke,attention; emotion; social interaction; developmental psychology; neuroscience,en
+@gjgasmundson@c.im,Gordon Asmundson,https://mastadon.social/@gjgasmundson,clinical psychology; fear; anxiety; stress; pain; CBT,en
+@eomeral@sciences.social,Erdem Meral,https://sciences.social/@eomeral,interpersonal dynamics; social exclusion; social biases; ethical decision making,en
+@jmerenstein@mastodon.world,Jenna Merenstein,https://mastodon.world/@jmerenstein,aging; neuroimaging; Alzheimer's disease; learning and memory; cognition,en
+@dmartinez@mastodon.online,David Martinez,https://mastodon.online/@dmartinez,individual differences; intelligence; working memory; learning; creative problem solving,en
+@Danielgilbert@sciences.social,Daniel Gilbert,https://sciences.social/@Danielgilbert,,en
+@CorioPsicologia@mastodon.social,Aurora Gómez Delgado,https://mastodon.social/@CorioPsicologia,digital behaviour; cyberpsychology; digital rights; psychology and technology; digital violence,en
+@adamthislife@mastodon.lol,Adam Pettitt,https://mastodon.lol/@adamthislife,clinical Psychology; social justice; digital mental health,en
+@EMeachon@mstdn.science,Emily Meachon,https://mstdn.science/@EMeachon,EEG; movement science; neurodevelopmental disorders; clincial neuropsychology ,en
+@jonshute@mastodon.social,Jon Shute,https://mastodon.social/@jonshute,moral disengagement; psychological criminology; self-regulation; compliance,en
+@DavidBerron@mastodon.social,David Berron,https://mastodon.social/@DavidBerron,cognitive neuroscience; memory; Alzheimer's disease; digital cognitive markers; fMRI,en
+@wb_markus@sigmoid.social,Markus Werkle-Bergner,https://sigmoid.social/@wb_markus,cognitive neuroscience; developmental psychology; memory; attention; perception,en
+@dustin_calvillo@mastodon.social,Dustin Calvillo,https://mastodon.social/@dustin_calvillo,cognition; decision making; misinformation; reasoning; memory,en
+@wesgrey@mastodon.lol,Wesley Grey,https://mastodon.lol/@wesgrey,social psychology: sexuality: appearance discrimination,en
+@dermotlynott@nerdculture.de,Dermot Lynott,https://nerdculture.de/@dermotlynott,cognitive science; open research; language modelling; implicit attitudes; embodied cognition,en
+@reyhanfurman@nerdculture.de,Reyhan Furman,https://nerdculture.de/@reyhanfurman,language development; gesture; multimodality; cognitive development,en
+@rockberta@sigmoid.social,Roberta Rocca,https://sigmoid.social/@rockberta,language; research methods; predictive modeling; open science; machine learning,en
+@nia@union.place,Nia Amazeen,https://union.place/@nia,dynamical systems; perception; action; cognition; ecological psychology; distributed cognition; collective action,en
+@tbchristophel@mas.to,Thomas Christophel,https://mas.to@tbchristophel,cognitive neuroscience; fMRI; working memory; machine learning,en
+@jfkominsky@fediscience.org,Jonathan F. Kominsky,https://fediscience.org/@jfkominsky,cognitive science; causality; cognitive development; methods,en
+@thaliagoldstein@fediscience.org,Thalia R. Goldstein,https://fediscience.org/@thaliagoldstein,developmental psychology; social cognition; imagination; pretense; play; theatre,en
+@randomslope@nerdculture.de,Ian Mundy,https://nerdculture.de/@randomslope,reading; language; prosody; dyslexia; quantitative methods and analysis,en
+@rachelaconlon@mastodon.world,Rachel Conlon,https://mastodon.world/@rachelaconlon,developmental psychology; middle childhood; math affect; math achievement; women in STEM,en
+@CarolynDavison@sotl.social,Carolyn Davison,https://sotl.social/@CarolynDavison,cognitive neuroscience; aging; memory; cognitive control; teaching and learning,en
+@cherilev@mstdn.party,Cheri Levinson,HTTPS://mstdn.party/@cherilev,Eating disorders; idiographic methods; personalized treatment; anxiety; digital interventions,en
+@segerstrom@mastodon.online,Suzanne Segerstrom ,HTTPS://mastodon.online/@segerstrom,personality; aging; psychoneuroimmunology; open science; longitudinal data analysis,en
+@dkokdemir@mstdn.social,Doğan Kökdemir,https://mstdn.social/@dkokdemir,social psychology; existentialism; decision making; philosophy of mind,en
+@jamiecummins@scicomm.xyz,Jamie Cummins,https://scicomm.xyz/@jamiecummins,open science; relational reasoning; cognitive training; Relational Frame Theory; implicit measures,en
+@renatofrey@mstdn.science,Renato Frey,https://mstdn.science/@renatofrey,decision making; risk; cognition; behavioral science; data science; open science; meta science,en
+@shawnrhoadsphd@sigmoid.social,Shawn Rhoads,https://sigmoid.social/@shawnrhoadsphd,cognitive neuroscience; computational psychiatry; social reinforcement learning; social decision-making; social perception,en
+@TamaraMedina@fediscience.org,Tamara Medina,https://fediscience.org/@TamaraMedina,learning statistics; statistical learning; language acquisition; cognitive psychology; study abroad in Japan,en
+@bethclarke@nerdculture.de,Beth Clarke,https://nerdculture.de/@bethclarke,metascience; research methods; social and personality psychology ,en
+@brainboyben@masto.ai,Benjamin Lowe,http://masto.ai/@brainboyben,cognitive neuroscience; MVPA; predictive coding; vision,en
+@neurocoops@masto.ai,Patrick Cooper,https://masto.ai/@neurocoops,cognitive control; midfrontal theta; curiosity; motivation; AI-human interactions ,en
+@abitter@fediscience.org,André Bittermann,https://fediscience.org/@abitter,rstats; methods; text mining; metascience,en
+@SusanMaury@fediscience.org,Susan Maury,https://fediscience.org/@SusanMaury,wellbeing; music; social bonding; emotions; exercise,en
+@aazad@qoto.org,Aazad,https://qoto.org/@aazad,neurogenetics; biological anthropology; complexity theory; self-organization & emergence;,en
+@Cerbit@mastrodon.lol,Luke McCombe,https://mastodon.lol/@Cerbit,forensic psychology; statistics; research design; anonymity; social identity,en
+@euanprentis@mastodon.online,Euan Prentis,https://mastodon.online/@euanprentis,cognitive neuroscience; memory; reinforcement learning; concepts,en
+@kimberlyquinn@mastodon.social,Kimberly Quinn,https://mastodon.social/@kimberlyquinn,open science; research design;  social psychology; social cognition; natural and built environments,en
+@arlen@mstdn.social,Arlen Moller,https://mstdn.social/@arlen,motivation; human computer interaction; behavioral medicine; games; technology,en
+@EdwardVessel@mas.to,Edward Vessel,https://mas.to/@EdwardVessel,neuroaesthetics; cognitive neuroscience; curiosity; creativity; visual cognition,en
+@StriemAmit@qoto.org,Ella Striem-Amit,https://qoto.org/@StriemAmit,cognitive neuroscience; brain plasticity; blindness; visual development; visual impairment; hands; congenital amputation; dyspmelia; actions; motor control,en
+@milenamr@sciencemastodon.com,Milena Rmus,https://sciencemastodon.com/@milenamr,cognitive neuroscience; reinforcement learning; computational modeling,en
+@hollysully@fediscience.org,Holly Sullivan-Toole,https://fediscience.org/@hollysully,affective neuroscience; adolescent development; reward; anhedonia; effort; psychoneuroimmunology,en
+@MdeBettencourt@fediscience.org,Megan deBettencourt,https://fediscience.org/@MdeBettencourt,cognitive neuroscience; attention; memory; brain-computer interfaces,en
+@drand@techhub.social,David G Rand ,https://techhub.social/@drand,Misinformation; polarization; fake news; social media; motivated reasoning; persuasion; field experiments; cooperation ,en
+@milicanikolic@mastodon.world,Milica Nikolic,https://mastodon.world/@milicanikolic,developmental psychopathology; social emotions; social cognition,en
+@jguassimoreira@mstdn.science,João Guassi Moreira,https://mstdn.science/@jguassimoreira,emotion regulation; developmental science; computational; decision-making; adolescence,en
+@john_thorp@nerdculture.de,John Thorp,https://nerdculture.de/@john_thorp,cognitive neuroscience; systems-level consolidation; fMRI,en
+@matthewdbachman@epicure.social,Matthew D Bachman,https://epicure.social/@matthewdbachman,Decision making; attention; cognitive neuroscience; EEG,en
+@themiek@mastodon.social,Annemieke Apergis-Schoute (Miek),Https://mastodon.social/@themiek,mental health; preoccupied thinking; compulsions; cognitive-flexibility; neuroscience ,en
+@pierre_bellec@fediscience.org,Pierre Bellec,https://fediscience.org/@pierre_bellec,computational cognitive neuroscience; neuroimaging; fMRI; AI; open science,en
+@claudiupetrule@fediscience.org,Claudiu Petrule,https://fediscience.org/@claudiupetrule,metascience; bibliometrics; translational psychotherapy; rstats; data visualization,en
+@fbublatzky@mas.to,Florian Bublatzky,https://mas.to/@fbublatzky,Psychologist and neuroscientist; social learning; person perception; emotion and attention; experimental psychopathology ,en
+@matthewhoptman@c.im,Matt Hoptman,https://c.im/@matthewhoptman,schizophrenia spectrum disorders; impulsivity; urgency; MRI; brain connectivity,en
+@qOker@universeodon.com,qOker,https://universeodon.com/@qOker,jungian psychology; buddhist psychology,en
+@mattodon@masto.ai,Matthew O'Donohue,masto.ai/@mattodon,multisensory integration; cognitive neuroscience; sensory perception; psychophysics; computational modelling,en
+@redojaki@sciences.social,Jan Retelsdorf,https://sciences.social/@redojaki,educational psychology; reading; judgment bias; motivation; self regulation,en
+@LRothschildPhD@indieweb.social,Louis Rothschild,https://indieweb.social/@lrothschildphd,psychoanalysis; fathers & sons; critical theory; trauma; attachment,en
+
+
+
+
