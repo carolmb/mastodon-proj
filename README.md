@@ -1,6 +1,5 @@
-# Project template
+# Scholars migration from Twitter to Mastodon
 
-A simple template for research project repos. You can also use [data science and reproducible science cookie cutters](https://github.com/audreyr/cookiecutter#data-science).
 
 ## Installation
 
