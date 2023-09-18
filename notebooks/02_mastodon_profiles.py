@@ -25,7 +25,7 @@ def get_userid(user_name, user_server):
         return None
 
 
-def get_userprofile(user_server, field):
+def get_userprofile(user_server, field_name):
     user_profile = api1.account_lookup(user_server)
 
     tt_user = ""
@@ -47,7 +47,7 @@ def get_userprofile(user_server, field):
         following,
         created,
         bio.replace("\t", " "),
-        field
+        field_name
     )
 
 
@@ -76,7 +76,29 @@ def get_scholars_handles(files, str_format):
 files1 = glob.glob('csv/*.csv')
 files2 = glob.glob('csv/others/*.csv')
 # print(files2)
-mastodon_users = get_scholars_handles(files1, "csv/scholars_{}.csv")
-mastodon_users += get_scholars_handles(files2, "csv/others/{}.csv")
+# mastodon_users = get_scholars_handles(files1, "csv/scholars_{}.csv")
+# mastodon_users += get_scholars_handles(files2, "csv/others/{}.csv")
+# output = pd.DataFrame(mastodon_users)
+# output.to_csv('mastodon_profiles_github.tsv', sep='\t')
+
+
+def get_scholars_fields(files, str_format):
+    mastodon_users = []
+    pair = []
+    for file in files:
+        print(file)
+        df = pd.read_csv(file, on_bad_lines="warn")
+        for col in df.columns:
+            if handle[0] in col.lower() or handle[1] in col.lower():
+                scholars = df[col].dropna().values
+                for row in scholars:
+                    if row.startswith('@'):
+                        row = row[1:]
+                    pair.append((row, file))
+                break
+    return pair
+    
+mastodon_users = get_scholars_fields(files1, "csv/scholars_{}.csv")
+mastodon_users += get_scholars_fields(files2, "csv/others/{}.csv")
 output = pd.DataFrame(mastodon_users)
-output.to_csv('mastodon_profiles_github.tsv', sep='\t')
+output.to_csv('mastodon_profiles_fields.tsv', sep='\t')
