@@ -44,14 +44,17 @@ def get_save_instance_token(filename, instance):
     token_json = json.loads(r.text)
     return token_json['access_token']
 
-
 def get_instance_token(instance):
+    # print('called', instance)
     filename = "../temp/mastodon_app_key_{}.secret".format(instance)
     
     if os.path.exists('../temp/token_{}.secret'.format(instance)):
-        token_json = json.loads(open('../temp/token_{}.secret'.format(instance)).read())
-#         print('token_json', token_json)
-        return token_json['access_token']
+        try:
+            token_json = json.loads(open('../temp/token_{}.secret'.format(instance)).read())
+            return token_json['access_token']
+        except:
+            print('ERROR: verify file', '../temp/token_{}.secret'.format(instance))
+            return None
 
     if os.path.exists(filename):
         return get_save_instance_token(filename, instance)
@@ -66,4 +69,24 @@ def get_instance_token(instance):
         except:
             print('error instance', instance)
             return None
-    
+
+
+def get_userid(user_name, user_server, token_access):
+    try:
+        url = 'https://{}/api/v1/accounts/lookup/'.format(user_server)
+        headers = {
+            'Authorization' : 'Bearer {}'.format(token_access)
+        }
+        params = {
+            'acct' : '{}@{}'.format(user_name, user_server)
+        }
+        r = session.get(url, headers=headers, params=params)
+
+        user = json.loads(r.text)
+        if 'id' in user:
+            return user["id"]
+        elif 'user' in user:
+            return user["user"]
+    except Exception as error:
+        print(error)
+        return None
